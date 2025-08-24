@@ -11,6 +11,10 @@ DyDec (DynamicDeception) provides an implementation of a Collusion Attack on Aut
 
 ### ART
 
+If DyDec is cloned from GitHub, to make sure the ART submodule is also cloned, run:
+
+`git submodule update --init --recursive`
+
 ### Patch Generation
 
 ### Simulation Testing
