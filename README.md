@@ -15,4 +15,12 @@ DyDec (DynamicDeception) provides an implementation of a Collusion Attack on Aut
 
 ### Simulation Testing
 
+<p align="center">
+A video tutorial on how to put the adversarial patch image on a pedestrian's shirt is available below.
+  
+<div align="center">
+  <a href="https://youtu.be/jH6JExPmgKY"><img src="https://img.youtube.com/vi/jH6JExPmgKY/0.jpg" alt="PCLA Video Tutorial"></a>
+</div>
+</p>
+
 Install PCLA
