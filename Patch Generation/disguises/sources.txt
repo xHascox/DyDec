@@ -1,0 +1,32 @@
+Sources of disguise images unless created by ourselves:
+
+die.jpg
+Adapted from: https://commons.wikimedia.org/wiki/File:Red_Casino-Style_Die.jpg
+under https://creativecommons.org/licenses/by-sa/4.0/deed.en
+
+dhalia.jpg:
+Adapted from: https://commons.wikimedia.org/wiki/File:Redish_Pink_Dhalia_Flower_-_Shola_Gardens_-_Kotagiri.jpg
+under https://creativecommons.org/licenses/by-sa/4.0/deed.en
+
+hibiscus.jpg:
+Adapted from https://commons.wikimedia.org/wiki/File:Hibiscus-003.JPG
+under https://creativecommons.org/licenses/by-sa/4.0/deed.en
+
+camellia.jpg:
+Adapted from: https://commons.wikimedia.org/wiki/File:Bloem_van_een_Camellia_×_williamsii_%27Roger_Hall%27._20-04-2021_(actm.)_01.jpg
+under https://creativecommons.org/licenses/by-sa/4.0/deed.en
+
+apple.jpg and apple_split.jpg: 
+Adapted from: https://commons.wikimedia.org/wiki/File:Red_Apple.jpg 
+under https://creativecommons.org/licenses/by/2.0/deed.en
+
+redhat.jpg:
+Adapted from: https://commons.wikimedia.org/wiki/File:Red_Hat_Logo_2019.svg
+
+raspberry.jpg:
+Adapted from: https://commons.wikimedia.org/wiki/File:Raspberry_-_whole_(Rubus_idaeus).jpg
+under https://creativecommons.org/licenses/by-sa/4.0/deed.en
+
+rose.jpg:
+Adapted from: https://commons.wikimedia.org/wiki/File:Red_rose_with_black_background.jpg
+under https://creativecommons.org/licenses/by-sa/4.0/deed.en
