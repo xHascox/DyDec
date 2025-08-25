@@ -2,7 +2,7 @@
 DyDec (DynamicDeception) provides an implementation of a Collusion Attack on Autonomous Driving Agents
 
 ## Structure:
-* The fork of **adversarial-robustness-toolbox** (ART) includes the implementation of our attack algorithm
+* Our fork of **adversarial-robustness-toolbox** (ART) includes the implementation of our attack algorithm
 * **Patch Generation** includes the attack configuration and execution
 * **Simulation Testing** includes the simulation testing in CARLA and the dataset collection
 
@@ -15,16 +15,12 @@ If DyDec is cloned from GitHub, to make sure the ART submodule is also cloned, r
 
 `git submodule update --init --recursive`
 
+The collusion attack is implemented in [adversarial_patch_pytorch.py](adversarial-robustness-toolbox/art/attacks/evasion/adversarial_patch/adversarial_patch_pytorch.py)
+
 ### Patch Generation
+
+Check the respective [README](<./Patch Generation/README.md>)
 
 ### Simulation Testing
 
-<p align="center">
-A video tutorial on how to put the adversarial patch image on a pedestrian's shirt is available below.
-  
-<div align="center">
-  <a href="https://youtu.be/jH6JExPmgKY"><img src="https://img.youtube.com/vi/jH6JExPmgKY/0.jpg" alt="PCLA Video Tutorial"></a>
-</div>
-</p>
-
-Install PCLA
+Check the respective [README](<./Simulation Testing/README.md>)
