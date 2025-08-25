@@ -648,7 +648,7 @@ def make_plots(scenarios_file = "2025-06-07 13:47:43.csv"):
                                 collection.remove()
                 
                 # Save version without std deviation
-                output_path = Path(f'{OUTPUT_DIR}{base_output_path}_no_std.png')
+                output_path = Path(f'{base_output_path}_no_std.png')
                 plt.savefig(output_path, dpi=300, bbox_inches='tight')
                 plt.savefig(output_path.with_suffix('.pdf'), bbox_inches='tight')
                 print(f"Saving plot without std to {output_path}")
