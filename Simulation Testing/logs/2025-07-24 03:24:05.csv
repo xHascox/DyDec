@@ -1,0 +1,600 @@
+2025-07-24 03:24:24,if_if,Val0 : actual stop sign,4.26,,timeseries/2025-07-24 03:24:24.csv,scenario_imgs/2025-07-24 03:24:24.png
+2025-07-24 03:24:47,if_if,Val3 : actual stop sign,4.13,,timeseries/2025-07-24 03:24:47.csv,scenario_imgs/2025-07-24 03:24:47.png
+2025-07-24 03:26:00,if_if,Val0 : no pedestrians,4.27,,timeseries/2025-07-24 03:26:00.csv,scenario_imgs/2025-07-24 03:26:00.png
+2025-07-24 03:26:22,if_if,Val3 : no pedestrians,3.45,,timeseries/2025-07-24 03:26:22.csv,scenario_imgs/2025-07-24 03:26:22.png
+2025-07-24 03:26:43,if_if,Val0 : benign y=4,3.43,,timeseries/2025-07-24 03:26:43.csv,scenario_imgs/2025-07-24 03:26:43.png
+2025-07-24 03:27:05,if_if,Val0 : disguise y=4,3.05,,timeseries/2025-07-24 03:27:05.csv,scenario_imgs/2025-07-24 03:27:05.png
+2025-07-24 03:27:27,if_if,Val0 : adv y=4,3.10,,timeseries/2025-07-24 03:27:27.csv,scenario_imgs/2025-07-24 03:27:27.png
+2025-07-24 03:27:49,if_if,Val3 : benign y=4,3.32,,timeseries/2025-07-24 03:27:49.csv,scenario_imgs/2025-07-24 03:27:49.png
+2025-07-24 03:28:11,if_if,Val3 : disguise y=4,3.22,,timeseries/2025-07-24 03:28:11.csv,scenario_imgs/2025-07-24 03:28:11.png
+2025-07-24 03:28:34,if_if,Val3 : adv y=4,3.21,,timeseries/2025-07-24 03:28:34.csv,scenario_imgs/2025-07-24 03:28:34.png
+2025-07-24 03:28:54,if_if,Val0 : actual stop sign,4.23,,timeseries/2025-07-24 03:28:54.csv,scenario_imgs/2025-07-24 03:28:54.png
+2025-07-24 03:29:17,if_if,Val3 : actual stop sign,3.55,,timeseries/2025-07-24 03:29:17.csv,scenario_imgs/2025-07-24 03:29:17.png
+2025-07-24 03:29:38,if_if,Val0 : no pedestrians,4.28,,timeseries/2025-07-24 03:29:38.csv,scenario_imgs/2025-07-24 03:29:38.png
+2025-07-24 03:30:00,if_if,Val3 : no pedestrians,4.12,,timeseries/2025-07-24 03:30:00.csv,scenario_imgs/2025-07-24 03:30:00.png
+2025-07-24 03:30:22,if_if,Val0 : benign y=4,3.18,,timeseries/2025-07-24 03:30:22.csv,scenario_imgs/2025-07-24 03:30:22.png
+2025-07-24 03:30:43,if_if,Val0 : disguise y=4,2.87,,timeseries/2025-07-24 03:30:43.csv,scenario_imgs/2025-07-24 03:30:43.png
+2025-07-24 03:31:05,if_if,Val0 : adv y=4,3.02,,timeseries/2025-07-24 03:31:05.csv,scenario_imgs/2025-07-24 03:31:05.png
+2025-07-24 03:31:27,if_if,Val3 : benign y=4,3.21,,timeseries/2025-07-24 03:31:27.csv,scenario_imgs/2025-07-24 03:31:27.png
+2025-07-24 03:31:49,if_if,Val3 : disguise y=4,3.10,,timeseries/2025-07-24 03:31:49.csv,scenario_imgs/2025-07-24 03:31:49.png
+2025-07-24 03:32:12,if_if,Val3 : adv y=4,3.25,,timeseries/2025-07-24 03:32:12.csv,scenario_imgs/2025-07-24 03:32:12.png
+2025-07-24 03:33:01,if_if,Val0 : actual stop sign,4.27,,timeseries/2025-07-24 03:33:01.csv,scenario_imgs/2025-07-24 03:33:01.png
+2025-07-24 03:33:23,if_if,Val3 : actual stop sign,4.08,,timeseries/2025-07-24 03:33:23.csv,scenario_imgs/2025-07-24 03:33:23.png
+2025-07-24 03:34:04,if_if,Val0 : no pedestrians,4.27,,timeseries/2025-07-24 03:34:04.csv,scenario_imgs/2025-07-24 03:34:04.png
+2025-07-24 03:34:27,if_if,Val3 : no pedestrians,3.59,,timeseries/2025-07-24 03:34:27.csv,scenario_imgs/2025-07-24 03:34:27.png
+2025-07-24 03:34:48,if_if,Val0 : benign y=4,3.28,,timeseries/2025-07-24 03:34:48.csv,scenario_imgs/2025-07-24 03:34:48.png
+2025-07-24 03:35:10,if_if,Val0 : disguise y=4,2.99,,timeseries/2025-07-24 03:35:10.csv,scenario_imgs/2025-07-24 03:35:10.png
+2025-07-24 03:35:30,if_if,Val0 : adv y=4,3.05,,timeseries/2025-07-24 03:35:30.csv,scenario_imgs/2025-07-24 03:35:30.png
+2025-07-24 03:35:53,if_if,Val3 : benign y=4,3.30,,timeseries/2025-07-24 03:35:53.csv,scenario_imgs/2025-07-24 03:35:53.png
+2025-07-24 03:36:15,if_if,Val3 : disguise y=4,3.26,,timeseries/2025-07-24 03:36:15.csv,scenario_imgs/2025-07-24 03:36:15.png
+2025-07-24 03:36:37,if_if,Val3 : adv y=4,3.01,,timeseries/2025-07-24 03:36:37.csv,scenario_imgs/2025-07-24 03:36:37.png
+2025-07-24 03:36:57,if_if,Val0 : actual stop sign,4.26,,timeseries/2025-07-24 03:36:57.csv,scenario_imgs/2025-07-24 03:36:57.png
+2025-07-24 03:37:20,if_if,Val3 : actual stop sign,4.24,,timeseries/2025-07-24 03:37:20.csv,scenario_imgs/2025-07-24 03:37:20.png
+2025-07-24 03:38:03,if_if,Val0 : no pedestrians,4.27,,timeseries/2025-07-24 03:38:03.csv,scenario_imgs/2025-07-24 03:38:03.png
+2025-07-24 03:39:27,if_if,Val3 : no pedestrians,4.12,,timeseries/2025-07-24 03:39:27.csv,scenario_imgs/2025-07-24 03:39:27.png
+2025-07-24 03:39:49,if_if,Val0 : benign y=4,3.16,,timeseries/2025-07-24 03:39:49.csv,scenario_imgs/2025-07-24 03:39:49.png
+2025-07-24 03:40:10,if_if,Val0 : disguise y=4,2.73,,timeseries/2025-07-24 03:40:10.csv,scenario_imgs/2025-07-24 03:40:10.png
+2025-07-24 03:40:32,if_if,Val0 : adv y=4,3.14,,timeseries/2025-07-24 03:40:32.csv,scenario_imgs/2025-07-24 03:40:32.png
+2025-07-24 03:40:54,if_if,Val3 : benign y=4,3.28,,timeseries/2025-07-24 03:40:54.csv,scenario_imgs/2025-07-24 03:40:54.png
+2025-07-24 03:41:16,if_if,Val3 : disguise y=4,3.06,,timeseries/2025-07-24 03:41:16.csv,scenario_imgs/2025-07-24 03:41:16.png
+2025-07-24 03:41:38,if_if,Val3 : adv y=4,3.29,,timeseries/2025-07-24 03:41:38.csv,scenario_imgs/2025-07-24 03:41:38.png
+2025-07-24 03:41:59,if_if,Val0 : actual stop sign,4.22,,timeseries/2025-07-24 03:41:59.csv,scenario_imgs/2025-07-24 03:41:59.png
+2025-07-24 03:42:21,if_if,Val3 : actual stop sign,4.05,,timeseries/2025-07-24 03:42:21.csv,scenario_imgs/2025-07-24 03:42:21.png
+2025-07-24 03:42:42,if_if,Val0 : no pedestrians,4.25,,timeseries/2025-07-24 03:42:42.csv,scenario_imgs/2025-07-24 03:42:42.png
+2025-07-24 03:43:05,if_if,Val3 : no pedestrians,3.65,,timeseries/2025-07-24 03:43:05.csv,scenario_imgs/2025-07-24 03:43:05.png
+2025-07-24 03:43:26,if_if,Val0 : benign y=4,3.27,,timeseries/2025-07-24 03:43:26.csv,scenario_imgs/2025-07-24 03:43:26.png
+2025-07-24 03:43:47,if_if,Val0 : disguise y=4,2.77,,timeseries/2025-07-24 03:43:47.csv,scenario_imgs/2025-07-24 03:43:47.png
+2025-07-24 03:44:08,if_if,Val0 : adv y=4,3.14,,timeseries/2025-07-24 03:44:08.csv,scenario_imgs/2025-07-24 03:44:08.png
+2025-07-24 03:44:30,if_if,Val3 : benign y=4,3.28,,timeseries/2025-07-24 03:44:30.csv,scenario_imgs/2025-07-24 03:44:30.png
+2025-07-24 03:44:52,if_if,Val3 : disguise y=4,3.33,,timeseries/2025-07-24 03:44:52.csv,scenario_imgs/2025-07-24 03:44:52.png
+2025-07-24 03:45:36,if_if,Val3 : adv y=4,3.07,,timeseries/2025-07-24 03:45:36.csv,scenario_imgs/2025-07-24 03:45:36.png
+2025-07-24 03:45:56,if_if,Val0 : actual stop sign,4.27,,timeseries/2025-07-24 03:45:56.csv,scenario_imgs/2025-07-24 03:45:56.png
+2025-07-24 03:46:19,if_if,Val3 : actual stop sign,4.18,,timeseries/2025-07-24 03:46:19.csv,scenario_imgs/2025-07-24 03:46:19.png
+2025-07-24 03:47:43,if_if,Val0 : no pedestrians,4.25,,timeseries/2025-07-24 03:47:43.csv,scenario_imgs/2025-07-24 03:47:43.png
+2025-07-24 03:48:06,if_if,Val3 : no pedestrians,3.60,,timeseries/2025-07-24 03:48:06.csv,scenario_imgs/2025-07-24 03:48:06.png
+2025-07-24 03:48:27,if_if,Val0 : benign y=4,3.06,,timeseries/2025-07-24 03:48:27.csv,scenario_imgs/2025-07-24 03:48:27.png
+2025-07-24 03:48:48,if_if,Val0 : disguise y=4,2.93,,timeseries/2025-07-24 03:48:48.csv,scenario_imgs/2025-07-24 03:48:48.png
+2025-07-24 03:49:09,if_if,Val0 : adv y=4,3.19,,timeseries/2025-07-24 03:49:09.csv,scenario_imgs/2025-07-24 03:49:09.png
+2025-07-24 03:49:32,if_if,Val3 : benign y=4,3.34,,timeseries/2025-07-24 03:49:32.csv,scenario_imgs/2025-07-24 03:49:32.png
+2025-07-24 03:49:54,if_if,Val3 : disguise y=4,3.28,,timeseries/2025-07-24 03:49:54.csv,scenario_imgs/2025-07-24 03:49:54.png
+2025-07-24 03:50:17,if_if,Val3 : adv y=4,3.08,,timeseries/2025-07-24 03:50:17.csv,scenario_imgs/2025-07-24 03:50:17.png
+2025-07-24 03:51:04,if_if,Val0 : actual stop sign,4.27,,timeseries/2025-07-24 03:51:04.csv,scenario_imgs/2025-07-24 03:51:04.png
+2025-07-24 03:51:26,if_if,Val3 : actual stop sign,3.54,,timeseries/2025-07-24 03:51:26.csv,scenario_imgs/2025-07-24 03:51:26.png
+2025-07-24 03:51:47,if_if,Val0 : no pedestrians,4.27,,timeseries/2025-07-24 03:51:47.csv,scenario_imgs/2025-07-24 03:51:47.png
+2025-07-24 03:52:09,if_if,Val3 : no pedestrians,3.62,,timeseries/2025-07-24 03:52:09.csv,scenario_imgs/2025-07-24 03:52:09.png
+2025-07-24 03:52:30,if_if,Val0 : benign y=4,3.26,,timeseries/2025-07-24 03:52:30.csv,scenario_imgs/2025-07-24 03:52:30.png
+2025-07-24 03:52:51,if_if,Val0 : disguise y=4,2.80,,timeseries/2025-07-24 03:52:51.csv,scenario_imgs/2025-07-24 03:52:51.png
+2025-07-24 03:53:13,if_if,Val0 : adv y=4,3.07,,timeseries/2025-07-24 03:53:13.csv,scenario_imgs/2025-07-24 03:53:13.png
+2025-07-24 03:53:35,if_if,Val3 : benign y=4,3.33,,timeseries/2025-07-24 03:53:35.csv,scenario_imgs/2025-07-24 03:53:35.png
+2025-07-24 03:53:57,if_if,Val3 : disguise y=4,3.08,,timeseries/2025-07-24 03:53:57.csv,scenario_imgs/2025-07-24 03:53:57.png
+2025-07-24 03:54:19,if_if,Val3 : adv y=4,3.31,,timeseries/2025-07-24 03:54:19.csv,scenario_imgs/2025-07-24 03:54:19.png
+2025-07-24 03:54:40,if_if,Val0 : actual stop sign,4.27,,timeseries/2025-07-24 03:54:40.csv,scenario_imgs/2025-07-24 03:54:40.png
+2025-07-24 03:55:02,if_if,Val3 : actual stop sign,3.99,,timeseries/2025-07-24 03:55:02.csv,scenario_imgs/2025-07-24 03:55:02.png
+2025-07-24 03:55:23,if_if,Val0 : no pedestrians,4.28,,timeseries/2025-07-24 03:55:23.csv,scenario_imgs/2025-07-24 03:55:23.png
+2025-07-24 03:55:45,if_if,Val3 : no pedestrians,4.11,,timeseries/2025-07-24 03:55:45.csv,scenario_imgs/2025-07-24 03:55:45.png
+2025-07-24 03:56:06,if_if,Val0 : benign y=4,3.22,,timeseries/2025-07-24 03:56:06.csv,scenario_imgs/2025-07-24 03:56:06.png
+2025-07-24 03:56:28,if_if,Val0 : disguise y=4,2.74,,timeseries/2025-07-24 03:56:28.csv,scenario_imgs/2025-07-24 03:56:28.png
+2025-07-24 03:56:49,if_if,Val0 : adv y=4,3.20,,timeseries/2025-07-24 03:56:49.csv,scenario_imgs/2025-07-24 03:56:49.png
+2025-07-24 03:57:11,if_if,Val3 : benign y=4,3.11,,timeseries/2025-07-24 03:57:11.csv,scenario_imgs/2025-07-24 03:57:11.png
+2025-07-24 03:57:33,if_if,Val3 : disguise y=4,3.33,,timeseries/2025-07-24 03:57:33.csv,scenario_imgs/2025-07-24 03:57:33.png
+2025-07-24 03:57:55,if_if,Val3 : adv y=4,3.28,,timeseries/2025-07-24 03:57:55.csv,scenario_imgs/2025-07-24 03:57:55.png
+2025-07-24 03:58:46,if_if,Val0 : actual stop sign,4.27,,timeseries/2025-07-24 03:58:46.csv,scenario_imgs/2025-07-24 03:58:46.png
+2025-07-24 03:59:09,if_if,Val3 : actual stop sign,4.12,,timeseries/2025-07-24 03:59:09.csv,scenario_imgs/2025-07-24 03:59:09.png
+2025-07-24 03:59:29,if_if,Val0 : no pedestrians,4.27,,timeseries/2025-07-24 03:59:29.csv,scenario_imgs/2025-07-24 03:59:29.png
+2025-07-24 04:00:12,if_if,Val3 : no pedestrians,4.11,,timeseries/2025-07-24 04:00:12.csv,scenario_imgs/2025-07-24 04:00:12.png
+2025-07-24 04:00:34,if_if,Val0 : benign y=4,3.21,,timeseries/2025-07-24 04:00:34.csv,scenario_imgs/2025-07-24 04:00:34.png
+2025-07-24 04:00:55,if_if,Val0 : disguise y=4,2.81,,timeseries/2025-07-24 04:00:55.csv,scenario_imgs/2025-07-24 04:00:55.png
+2025-07-24 04:01:16,if_if,Val0 : adv y=4,3.29,,timeseries/2025-07-24 04:01:16.csv,scenario_imgs/2025-07-24 04:01:16.png
+2025-07-24 04:01:38,if_if,Val3 : benign y=4,3.32,,timeseries/2025-07-24 04:01:38.csv,scenario_imgs/2025-07-24 04:01:38.png
+2025-07-24 04:02:01,if_if,Val3 : disguise y=4,3.30,,timeseries/2025-07-24 04:02:01.csv,scenario_imgs/2025-07-24 04:02:01.png
+2025-07-24 04:02:23,if_if,Val3 : adv y=4,3.08,,timeseries/2025-07-24 04:02:23.csv,scenario_imgs/2025-07-24 04:02:23.png
+2025-07-24 04:02:43,if_if,Val0 : actual stop sign,4.27,,timeseries/2025-07-24 04:02:43.csv,scenario_imgs/2025-07-24 04:02:43.png
+2025-07-24 04:03:06,if_if,Val3 : actual stop sign,3.88,,timeseries/2025-07-24 04:03:06.csv,scenario_imgs/2025-07-24 04:03:06.png
+2025-07-24 04:04:20,if_if,Val0 : no pedestrians,4.27,,timeseries/2025-07-24 04:04:20.csv,scenario_imgs/2025-07-24 04:04:20.png
+2025-07-24 04:04:42,if_if,Val3 : no pedestrians,4.03,,timeseries/2025-07-24 04:04:42.csv,scenario_imgs/2025-07-24 04:04:42.png
+2025-07-24 04:05:03,if_if,Val0 : benign y=4,3.39,,timeseries/2025-07-24 04:05:03.csv,scenario_imgs/2025-07-24 04:05:03.png
+2025-07-24 04:05:24,if_if,Val0 : disguise y=4,2.77,,timeseries/2025-07-24 04:05:24.csv,scenario_imgs/2025-07-24 04:05:24.png
+2025-07-24 04:05:46,if_if,Val0 : adv y=4,3.00,,timeseries/2025-07-24 04:05:46.csv,scenario_imgs/2025-07-24 04:05:46.png
+2025-07-24 04:06:08,if_if,Val3 : benign y=4,3.04,,timeseries/2025-07-24 04:06:08.csv,scenario_imgs/2025-07-24 04:06:08.png
+2025-07-24 04:06:30,if_if,Val3 : disguise y=4,3.10,,timeseries/2025-07-24 04:06:30.csv,scenario_imgs/2025-07-24 04:06:30.png
+2025-07-24 04:06:53,if_if,Val3 : adv y=4,3.17,,timeseries/2025-07-24 04:06:53.csv,scenario_imgs/2025-07-24 04:06:53.png
+2025-07-24 04:37:45,tfpp_aim_0,Val0 : actual stop sign,2.99,,timeseries/2025-07-24 04:37:45.csv,scenario_imgs/2025-07-24 04:37:45.png
+2025-07-24 07:21:11,tfpp_aim_0,Val3 : actual stop sign,3.90,,timeseries/2025-07-24 07:21:11.csv,scenario_imgs/2025-07-24 07:21:11.png
+2025-07-24 08:23:07,tfpp_aim_0,Val0 : no pedestrians,3.00,,timeseries/2025-07-24 08:23:07.csv,scenario_imgs/2025-07-24 08:23:07.png
+2025-07-24 08:48:12,tfpp_aim_0,Val3 : no pedestrians,3.63,,timeseries/2025-07-24 08:48:12.csv,scenario_imgs/2025-07-24 08:48:12.png
+2025-07-24 08:49:38,tfpp_aim_0,Val0 : benign y=4,3.00,,timeseries/2025-07-24 08:49:38.csv,scenario_imgs/2025-07-24 08:49:38.png
+2025-07-24 08:49:49,tfpp_aim_0,Val0 : disguise y=4,3.00,,timeseries/2025-07-24 08:49:49.csv,scenario_imgs/2025-07-24 08:49:49.png
+2025-07-24 08:51:18,tfpp_aim_0,Val0 : adv y=4,3.01,,timeseries/2025-07-24 08:51:18.csv,scenario_imgs/2025-07-24 08:51:18.png
+2025-07-24 08:51:31,tfpp_aim_0,Val3 : benign y=4,3.83,,timeseries/2025-07-24 08:51:31.csv,scenario_imgs/2025-07-24 08:51:31.png
+2025-07-24 08:51:43,tfpp_aim_0,Val3 : disguise y=4,3.74,,timeseries/2025-07-24 08:51:43.csv,scenario_imgs/2025-07-24 08:51:43.png
+2025-07-24 08:51:54,tfpp_aim_0,Val3 : adv y=4,3.78,,timeseries/2025-07-24 08:51:54.csv,scenario_imgs/2025-07-24 08:51:54.png
+2025-07-24 09:30:15,tfpp_aim_0,Val0 : actual stop sign,2.99,,timeseries/2025-07-24 09:30:15.csv,scenario_imgs/2025-07-24 09:30:15.png
+2025-07-24 10:12:55,tfpp_aim_0,Val3 : actual stop sign,3.93,,timeseries/2025-07-24 10:12:55.csv,scenario_imgs/2025-07-24 10:12:55.png
+2025-07-24 10:29:56,tfpp_aim_0,Val0 : no pedestrians,3.00,,timeseries/2025-07-24 10:29:56.csv,scenario_imgs/2025-07-24 10:29:56.png
+2025-07-24 10:45:06,tfpp_aim_0,Val3 : no pedestrians,3.92,,timeseries/2025-07-24 10:45:06.csv,scenario_imgs/2025-07-24 10:45:06.png
+2025-07-24 10:46:17,tfpp_aim_0,Val0 : benign y=4,3.01,,timeseries/2025-07-24 10:46:17.csv,scenario_imgs/2025-07-24 10:46:17.png
+2025-07-24 10:47:08,tfpp_aim_0,Val0 : disguise y=4,3.01,,timeseries/2025-07-24 10:47:08.csv,scenario_imgs/2025-07-24 10:47:08.png
+2025-07-24 10:47:58,tfpp_aim_0,Val0 : adv y=4,3.01,,timeseries/2025-07-24 10:47:58.csv,scenario_imgs/2025-07-24 10:47:58.png
+2025-07-24 10:48:10,tfpp_aim_0,Val3 : benign y=4,3.87,,timeseries/2025-07-24 10:48:10.csv,scenario_imgs/2025-07-24 10:48:10.png
+2025-07-24 10:48:41,tfpp_aim_0,Val3 : disguise y=4,3.73,,timeseries/2025-07-24 10:48:41.csv,scenario_imgs/2025-07-24 10:48:41.png
+2025-07-24 10:50:12,tfpp_aim_0,Val3 : adv y=4,3.77,,timeseries/2025-07-24 10:50:12.csv,scenario_imgs/2025-07-24 10:50:12.png
+2025-07-24 14:05:13,tfpp_aim_0,Val0 : actual stop sign,2.99,,timeseries/2025-07-24 14:05:13.csv,scenario_imgs/2025-07-24 14:05:13.png
+2025-07-24 14:13:04,tfpp_aim_0,Val3 : actual stop sign,3.91,,timeseries/2025-07-24 14:13:04.csv,scenario_imgs/2025-07-24 14:13:04.png
+2025-07-24 16:04:21,tfpp_aim_0,Val0 : no pedestrians,3.00,,timeseries/2025-07-24 16:04:21.csv,scenario_imgs/2025-07-24 16:04:21.png
+2025-07-24 16:28:43,tfpp_aim_0,Val3 : no pedestrians,3.84,,timeseries/2025-07-24 16:28:43.csv,scenario_imgs/2025-07-24 16:28:43.png
+2025-07-24 16:29:31,tfpp_aim_0,Val0 : benign y=4,3.00,,timeseries/2025-07-24 16:29:31.csv,scenario_imgs/2025-07-24 16:29:31.png
+2025-07-24 16:29:43,tfpp_aim_0,Val0 : disguise y=4,3.00,,timeseries/2025-07-24 16:29:43.csv,scenario_imgs/2025-07-24 16:29:43.png
+2025-07-24 16:30:52,tfpp_aim_0,Val0 : adv y=4,3.01,,timeseries/2025-07-24 16:30:52.csv,scenario_imgs/2025-07-24 16:30:52.png
+2025-07-24 16:31:23,tfpp_aim_0,Val3 : benign y=4,3.85,,timeseries/2025-07-24 16:31:23.csv,scenario_imgs/2025-07-24 16:31:23.png
+2025-07-24 16:31:34,tfpp_aim_0,Val3 : disguise y=4,3.71,,timeseries/2025-07-24 16:31:34.csv,scenario_imgs/2025-07-24 16:31:34.png
+2025-07-24 16:32:06,tfpp_aim_0,Val3 : adv y=4,3.79,,timeseries/2025-07-24 16:32:06.csv,scenario_imgs/2025-07-24 16:32:06.png
+2025-07-24 16:39:42,tfpp_aim_0,Val0 : actual stop sign,2.99,,timeseries/2025-07-24 16:39:42.csv,scenario_imgs/2025-07-24 16:39:42.png
+2025-07-24 16:47:26,tfpp_aim_0,Val3 : actual stop sign,3.90,,timeseries/2025-07-24 16:47:26.csv,scenario_imgs/2025-07-24 16:47:26.png
+2025-07-24 17:02:25,tfpp_aim_0,Val0 : no pedestrians,3.00,,timeseries/2025-07-24 17:02:25.csv,scenario_imgs/2025-07-24 17:02:25.png
+2025-07-24 17:29:58,tfpp_aim_0,Val3 : no pedestrians,3.86,,timeseries/2025-07-24 17:29:58.csv,scenario_imgs/2025-07-24 17:29:58.png
+2025-07-24 17:31:47,tfpp_aim_0,Val0 : benign y=4,3.00,,timeseries/2025-07-24 17:31:47.csv,scenario_imgs/2025-07-24 17:31:47.png
+2025-07-24 17:32:55,tfpp_aim_0,Val0 : disguise y=4,3.00,,timeseries/2025-07-24 17:32:55.csv,scenario_imgs/2025-07-24 17:32:55.png
+2025-07-24 17:35:24,tfpp_aim_0,Val0 : adv y=4,3.01,,timeseries/2025-07-24 17:35:24.csv,scenario_imgs/2025-07-24 17:35:24.png
+2025-07-24 17:37:14,tfpp_aim_0,Val3 : benign y=4,3.82,,timeseries/2025-07-24 17:37:14.csv,scenario_imgs/2025-07-24 17:37:14.png
+2025-07-24 17:38:23,tfpp_aim_0,Val3 : disguise y=4,3.76,,timeseries/2025-07-24 17:38:23.csv,scenario_imgs/2025-07-24 17:38:23.png
+2025-07-24 17:38:50,tfpp_aim_0,Val3 : adv y=4,3.82,,timeseries/2025-07-24 17:38:50.csv,scenario_imgs/2025-07-24 17:38:50.png
+2025-07-24 18:13:48,tfpp_aim_0,Val0 : actual stop sign,2.99,,timeseries/2025-07-24 18:13:48.csv,scenario_imgs/2025-07-24 18:13:48.png
+2025-07-24 18:17:05,tfpp_aim_0,Val3 : actual stop sign,3.91,,timeseries/2025-07-24 18:17:05.csv,scenario_imgs/2025-07-24 18:17:05.png
+2025-07-26 02:24:26,tfpp_aim_0,Val0 : no pedestrians,3.00,,timeseries/2025-07-26 02:24:26.csv,scenario_imgs/2025-07-26 02:24:26.png
+2025-07-26 02:34:37,tfpp_aim_0,Val3 : no pedestrians,3.92,,timeseries/2025-07-26 02:34:37.csv,scenario_imgs/2025-07-26 02:34:37.png
+2025-07-26 02:35:47,tfpp_aim_0,Val0 : benign y=4,3.00,,timeseries/2025-07-26 02:35:47.csv,scenario_imgs/2025-07-26 02:35:47.png
+2025-07-26 02:35:59,tfpp_aim_0,Val0 : disguise y=4,3.00,,timeseries/2025-07-26 02:35:59.csv,scenario_imgs/2025-07-26 02:35:59.png
+2025-07-26 02:36:10,tfpp_aim_0,Val0 : adv y=4,3.01,,timeseries/2025-07-26 02:36:10.csv,scenario_imgs/2025-07-26 02:36:10.png
+2025-07-26 02:37:01,tfpp_aim_0,Val3 : benign y=4,3.84,,timeseries/2025-07-26 02:37:01.csv,scenario_imgs/2025-07-26 02:37:01.png
+2025-07-26 02:37:13,tfpp_aim_0,Val3 : disguise y=4,3.78,,timeseries/2025-07-26 02:37:13.csv,scenario_imgs/2025-07-26 02:37:13.png
+2025-07-26 02:38:58,tfpp_aim_0,Val3 : adv y=4,3.79,,timeseries/2025-07-26 02:38:58.csv,scenario_imgs/2025-07-26 02:38:58.png
+2025-07-26 02:50:53,tfpp_aim_0,Val0 : actual stop sign,2.99,,timeseries/2025-07-26 02:50:53.csv,scenario_imgs/2025-07-26 02:50:53.png
+2025-07-26 04:59:51,tfpp_aim_0,Val3 : actual stop sign,3.90,,timeseries/2025-07-26 04:59:51.csv,scenario_imgs/2025-07-26 04:59:51.png
+2025-07-26 05:38:19,tfpp_aim_0,Val0 : no pedestrians,3.00,,timeseries/2025-07-26 05:38:19.csv,scenario_imgs/2025-07-26 05:38:19.png
+2025-07-26 05:52:56,tfpp_aim_0,Val3 : no pedestrians,3.64,,timeseries/2025-07-26 05:52:56.csv,scenario_imgs/2025-07-26 05:52:56.png
+2025-07-26 05:53:40,tfpp_aim_0,Val0 : benign y=4,3.00,,timeseries/2025-07-26 05:53:40.csv,scenario_imgs/2025-07-26 05:53:40.png
+2025-07-26 05:54:10,tfpp_aim_0,Val0 : disguise y=4,3.00,,timeseries/2025-07-26 05:54:10.csv,scenario_imgs/2025-07-26 05:54:10.png
+2025-07-26 05:55:16,tfpp_aim_0,Val0 : adv y=4,3.01,,timeseries/2025-07-26 05:55:16.csv,scenario_imgs/2025-07-26 05:55:16.png
+2025-07-26 05:58:46,tfpp_aim_0,Val3 : benign y=4,3.82,,timeseries/2025-07-26 05:58:46.csv,scenario_imgs/2025-07-26 05:58:46.png
+2025-07-26 05:58:58,tfpp_aim_0,Val3 : disguise y=4,3.80,,timeseries/2025-07-26 05:58:58.csv,scenario_imgs/2025-07-26 05:58:58.png
+2025-07-26 05:59:45,tfpp_aim_0,Val3 : adv y=4,3.79,,timeseries/2025-07-26 05:59:45.csv,scenario_imgs/2025-07-26 05:59:45.png
+2025-07-26 07:09:35,tfpp_aim_0,Val0 : actual stop sign,2.99,,timeseries/2025-07-26 07:09:35.csv,scenario_imgs/2025-07-26 07:09:35.png
+2025-07-26 10:09:30,tfpp_aim_0,Val3 : actual stop sign,3.93,,timeseries/2025-07-26 10:09:30.csv,scenario_imgs/2025-07-26 10:09:30.png
+2025-07-26 15:42:13,tfpp_aim_0,Val0 : no pedestrians,3.00,,timeseries/2025-07-26 15:42:13.csv,scenario_imgs/2025-07-26 15:42:13.png
+2025-07-26 17:08:35,tfpp_aim_0,Val3 : no pedestrians,3.86,,timeseries/2025-07-26 17:08:35.csv,scenario_imgs/2025-07-26 17:08:35.png
+2025-07-26 17:08:46,tfpp_aim_0,Val0 : benign y=4,3.01,,timeseries/2025-07-26 17:08:46.csv,scenario_imgs/2025-07-26 17:08:46.png
+2025-07-26 17:08:58,tfpp_aim_0,Val0 : disguise y=4,3.00,,timeseries/2025-07-26 17:08:58.csv,scenario_imgs/2025-07-26 17:08:58.png
+2025-07-26 17:09:09,tfpp_aim_0,Val0 : adv y=4,3.00,,timeseries/2025-07-26 17:09:09.csv,scenario_imgs/2025-07-26 17:09:09.png
+2025-07-26 17:09:21,tfpp_aim_0,Val3 : benign y=4,3.82,,timeseries/2025-07-26 17:09:21.csv,scenario_imgs/2025-07-26 17:09:21.png
+2025-07-26 17:12:08,tfpp_aim_0,Val3 : disguise y=4,3.79,,timeseries/2025-07-26 17:12:08.csv,scenario_imgs/2025-07-26 17:12:08.png
+2025-07-26 17:13:00,tfpp_aim_0,Val3 : adv y=4,3.79,,timeseries/2025-07-26 17:13:00.csv,scenario_imgs/2025-07-26 17:13:00.png
+2025-07-26 18:27:13,tfpp_aim_0,Val0 : actual stop sign,2.99,,timeseries/2025-07-26 18:27:13.csv,scenario_imgs/2025-07-26 18:27:13.png
+2025-07-26 19:11:44,tfpp_aim_0,Val3 : actual stop sign,3.91,,timeseries/2025-07-26 19:11:44.csv,scenario_imgs/2025-07-26 19:11:44.png
+2025-07-26 20:15:28,tfpp_aim_0,Val0 : no pedestrians,3.00,,timeseries/2025-07-26 20:15:28.csv,scenario_imgs/2025-07-26 20:15:28.png
+2025-07-26 20:25:51,tfpp_aim_0,Val3 : no pedestrians,3.91,,timeseries/2025-07-26 20:25:51.csv,scenario_imgs/2025-07-26 20:25:51.png
+2025-07-26 20:27:36,tfpp_aim_0,Val0 : benign y=4,3.01,,timeseries/2025-07-26 20:27:36.csv,scenario_imgs/2025-07-26 20:27:36.png
+2025-07-26 20:28:09,tfpp_aim_0,Val0 : disguise y=4,3.00,,timeseries/2025-07-26 20:28:09.csv,scenario_imgs/2025-07-26 20:28:09.png
+2025-07-26 20:28:34,tfpp_aim_0,Val0 : adv y=4,3.01,,timeseries/2025-07-26 20:28:34.csv,scenario_imgs/2025-07-26 20:28:34.png
+2025-07-26 20:29:05,tfpp_aim_0,Val3 : benign y=4,3.82,,timeseries/2025-07-26 20:29:05.csv,scenario_imgs/2025-07-26 20:29:05.png
+2025-07-26 20:29:17,tfpp_aim_0,Val3 : disguise y=4,3.79,,timeseries/2025-07-26 20:29:17.csv,scenario_imgs/2025-07-26 20:29:17.png
+2025-07-26 20:30:09,tfpp_aim_0,Val3 : adv y=4,3.80,,timeseries/2025-07-26 20:30:09.csv,scenario_imgs/2025-07-26 20:30:09.png
+2025-07-26 21:35:02,tfpp_aim_0,Val0 : actual stop sign,2.99,,timeseries/2025-07-26 21:35:02.csv,scenario_imgs/2025-07-26 21:35:02.png
+2025-07-26 22:10:09,tfpp_aim_0,Val3 : actual stop sign,3.93,,timeseries/2025-07-26 22:10:09.csv,scenario_imgs/2025-07-26 22:10:09.png
+2025-07-27 00:07:10,tfpp_aim_0,Val0 : no pedestrians,3.00,,timeseries/2025-07-27 00:07:10.csv,scenario_imgs/2025-07-27 00:07:10.png
+2025-07-27 00:31:45,tfpp_aim_0,Val3 : no pedestrians,3.92,,timeseries/2025-07-27 00:31:45.csv,scenario_imgs/2025-07-27 00:31:45.png
+2025-07-27 00:33:50,tfpp_aim_0,Val0 : benign y=4,3.01,,timeseries/2025-07-27 00:33:50.csv,scenario_imgs/2025-07-27 00:33:50.png
+2025-07-27 00:34:20,tfpp_aim_0,Val0 : disguise y=4,3.01,,timeseries/2025-07-27 00:34:20.csv,scenario_imgs/2025-07-27 00:34:20.png
+2025-07-27 00:34:50,tfpp_aim_0,Val0 : adv y=4,3.01,,timeseries/2025-07-27 00:34:50.csv,scenario_imgs/2025-07-27 00:34:50.png
+2025-07-27 00:35:41,tfpp_aim_0,Val3 : benign y=4,3.79,,timeseries/2025-07-27 00:35:41.csv,scenario_imgs/2025-07-27 00:35:41.png
+2025-07-27 00:35:54,tfpp_aim_0,Val3 : disguise y=4,3.78,,timeseries/2025-07-27 00:35:54.csv,scenario_imgs/2025-07-27 00:35:54.png
+2025-07-27 00:36:26,tfpp_aim_0,Val3 : adv y=4,3.80,,timeseries/2025-07-27 00:36:26.csv,scenario_imgs/2025-07-27 00:36:26.png
+2025-07-27 00:55:15,tfpp_aim_0,Val0 : actual stop sign,2.99,,timeseries/2025-07-27 00:55:15.csv,scenario_imgs/2025-07-27 00:55:15.png
+2025-07-27 01:41:27,tfpp_aim_0,Val3 : actual stop sign,3.96,,timeseries/2025-07-27 01:41:27.csv,scenario_imgs/2025-07-27 01:41:27.png
+2025-07-27 01:42:15,tfpp_aim_0,Val0 : no pedestrians,3.00,,timeseries/2025-07-27 01:42:15.csv,scenario_imgs/2025-07-27 01:42:15.png
+2025-07-27 02:44:39,tfpp_aim_0,Val3 : no pedestrians,3.89,,timeseries/2025-07-27 02:44:39.csv,scenario_imgs/2025-07-27 02:44:39.png
+2025-07-27 02:45:26,tfpp_aim_0,Val0 : benign y=4,3.00,,timeseries/2025-07-27 02:45:26.csv,scenario_imgs/2025-07-27 02:45:26.png
+2025-07-27 02:46:11,tfpp_aim_0,Val0 : disguise y=4,3.01,,timeseries/2025-07-27 02:46:11.csv,scenario_imgs/2025-07-27 02:46:11.png
+2025-07-27 02:47:00,tfpp_aim_0,Val0 : adv y=4,3.01,,timeseries/2025-07-27 02:47:00.csv,scenario_imgs/2025-07-27 02:47:00.png
+2025-07-27 02:47:31,tfpp_aim_0,Val3 : benign y=4,3.81,,timeseries/2025-07-27 02:47:31.csv,scenario_imgs/2025-07-27 02:47:31.png
+2025-07-27 02:47:43,tfpp_aim_0,Val3 : disguise y=4,3.73,,timeseries/2025-07-27 02:47:43.csv,scenario_imgs/2025-07-27 02:47:43.png
+2025-07-27 02:48:14,tfpp_aim_0,Val3 : adv y=4,3.79,,timeseries/2025-07-27 02:48:14.csv,scenario_imgs/2025-07-27 02:48:14.png
+2025-07-27 02:50:11,tfpp_l6_0,Val0 : actual stop sign,4.66,,timeseries/2025-07-27 02:50:11.csv,scenario_imgs/2025-07-27 02:50:11.png
+2025-07-27 03:01:45,tfpp_l6_0,Val3 : actual stop sign,4.11,,timeseries/2025-07-27 03:01:45.csv,scenario_imgs/2025-07-27 03:01:45.png
+2025-07-27 03:09:17,tfpp_l6_0,Val0 : no pedestrians,4.65,,timeseries/2025-07-27 03:09:17.csv,scenario_imgs/2025-07-27 03:09:17.png
+2025-07-27 03:12:59,tfpp_l6_0,Val3 : no pedestrians,4.04,,timeseries/2025-07-27 03:12:59.csv,scenario_imgs/2025-07-27 03:12:59.png
+2025-07-27 03:13:54,tfpp_l6_0,Val0 : benign y=4,4.70,,timeseries/2025-07-27 03:13:54.csv,scenario_imgs/2025-07-27 03:13:54.png
+2025-07-27 03:14:09,tfpp_l6_0,Val0 : disguise y=4,4.61,,timeseries/2025-07-27 03:14:09.csv,scenario_imgs/2025-07-27 03:14:09.png
+2025-07-27 03:15:07,tfpp_l6_0,Val0 : adv y=4,4.68,,timeseries/2025-07-27 03:15:07.csv,scenario_imgs/2025-07-27 03:15:07.png
+2025-07-27 03:15:23,tfpp_l6_0,Val3 : benign y=4,4.08,,timeseries/2025-07-27 03:15:23.csv,scenario_imgs/2025-07-27 03:15:23.png
+2025-07-27 03:15:38,tfpp_l6_0,Val3 : disguise y=4,4.31,,timeseries/2025-07-27 03:15:38.csv,scenario_imgs/2025-07-27 03:15:38.png
+2025-07-27 03:16:17,tfpp_l6_0,Val3 : adv y=4,3.93,,timeseries/2025-07-27 03:16:17.csv,scenario_imgs/2025-07-27 03:16:17.png
+2025-07-27 03:21:06,tfpp_l6_0,Val0 : actual stop sign,4.59,,timeseries/2025-07-27 03:21:06.csv,scenario_imgs/2025-07-27 03:21:06.png
+2025-07-27 03:21:22,tfpp_l6_0,Val3 : actual stop sign,4.01,,timeseries/2025-07-27 03:21:22.csv,scenario_imgs/2025-07-27 03:21:22.png
+2025-07-27 03:24:39,tfpp_l6_0,Val0 : no pedestrians,4.65,,timeseries/2025-07-27 03:24:39.csv,scenario_imgs/2025-07-27 03:24:39.png
+2025-07-27 03:24:55,tfpp_l6_0,Val3 : no pedestrians,4.22,,timeseries/2025-07-27 03:24:55.csv,scenario_imgs/2025-07-27 03:24:55.png
+2025-07-27 03:25:49,tfpp_l6_0,Val0 : benign y=4,4.68,,timeseries/2025-07-27 03:25:49.csv,scenario_imgs/2025-07-27 03:25:49.png
+2025-07-27 03:26:04,tfpp_l6_0,Val0 : disguise y=4,4.67,,timeseries/2025-07-27 03:26:04.csv,scenario_imgs/2025-07-27 03:26:04.png
+2025-07-27 03:28:15,tfpp_l6_0,Val0 : adv y=4,4.67,,timeseries/2025-07-27 03:28:15.csv,scenario_imgs/2025-07-27 03:28:15.png
+2025-07-27 03:28:31,tfpp_l6_0,Val3 : benign y=4,4.02,,timeseries/2025-07-27 03:28:31.csv,scenario_imgs/2025-07-27 03:28:31.png
+2025-07-27 03:29:46,tfpp_l6_0,Val3 : disguise y=4,3.96,,timeseries/2025-07-27 03:29:46.csv,scenario_imgs/2025-07-27 03:29:46.png
+2025-07-27 03:30:41,tfpp_l6_0,Val3 : adv y=4,4.24,,timeseries/2025-07-27 03:30:41.csv,scenario_imgs/2025-07-27 03:30:41.png
+2025-07-27 03:42:21,tfpp_l6_0,Val0 : actual stop sign,4.67,,timeseries/2025-07-27 03:42:21.csv,scenario_imgs/2025-07-27 03:42:21.png
+2025-07-27 03:44:44,tfpp_l6_0,Val3 : actual stop sign,3.80,,timeseries/2025-07-27 03:44:44.csv,scenario_imgs/2025-07-27 03:44:44.png
+2025-07-27 03:44:58,tfpp_l6_0,Val0 : no pedestrians,4.65,,timeseries/2025-07-27 03:44:58.csv,scenario_imgs/2025-07-27 03:44:58.png
+2025-07-27 03:45:14,tfpp_l6_0,Val3 : no pedestrians,4.21,,timeseries/2025-07-27 03:45:14.csv,scenario_imgs/2025-07-27 03:45:14.png
+2025-07-27 03:47:22,tfpp_l6_0,Val0 : benign y=4,4.67,,timeseries/2025-07-27 03:47:22.csv,scenario_imgs/2025-07-27 03:47:22.png
+2025-07-27 03:47:37,tfpp_l6_0,Val0 : disguise y=4,4.67,,timeseries/2025-07-27 03:47:37.csv,scenario_imgs/2025-07-27 03:47:37.png
+2025-07-27 03:47:51,tfpp_l6_0,Val0 : adv y=4,4.68,,timeseries/2025-07-27 03:47:51.csv,scenario_imgs/2025-07-27 03:47:51.png
+2025-07-27 03:48:26,tfpp_l6_0,Val3 : benign y=4,4.01,,timeseries/2025-07-27 03:48:26.csv,scenario_imgs/2025-07-27 03:48:26.png
+2025-07-27 03:48:41,tfpp_l6_0,Val3 : disguise y=4,4.24,,timeseries/2025-07-27 03:48:41.csv,scenario_imgs/2025-07-27 03:48:41.png
+2025-07-27 03:48:57,tfpp_l6_0,Val3 : adv y=4,4.56,,timeseries/2025-07-27 03:48:57.csv,scenario_imgs/2025-07-27 03:48:57.png
+2025-07-27 04:04:19,tfpp_l6_0,Val0 : actual stop sign,4.64,,timeseries/2025-07-27 04:04:19.csv,scenario_imgs/2025-07-27 04:04:19.png
+2025-07-27 04:06:40,tfpp_l6_0,Val3 : actual stop sign,3.89,,timeseries/2025-07-27 04:06:40.csv,scenario_imgs/2025-07-27 04:06:40.png
+2025-07-27 04:09:37,tfpp_l6_0,Val0 : no pedestrians,4.67,,timeseries/2025-07-27 04:09:37.csv,scenario_imgs/2025-07-27 04:09:37.png
+2025-07-27 04:10:54,tfpp_l6_0,Val3 : no pedestrians,4.58,,timeseries/2025-07-27 04:10:54.csv,scenario_imgs/2025-07-27 04:10:54.png
+2025-07-27 04:11:48,tfpp_l6_0,Val0 : benign y=4,4.67,,timeseries/2025-07-27 04:11:48.csv,scenario_imgs/2025-07-27 04:11:48.png
+2025-07-27 04:13:04,tfpp_l6_0,Val0 : disguise y=4,4.68,,timeseries/2025-07-27 04:13:04.csv,scenario_imgs/2025-07-27 04:13:04.png
+2025-07-27 04:13:19,tfpp_l6_0,Val0 : adv y=4,4.68,,timeseries/2025-07-27 04:13:19.csv,scenario_imgs/2025-07-27 04:13:19.png
+2025-07-27 04:13:35,tfpp_l6_0,Val3 : benign y=4,4.21,,timeseries/2025-07-27 04:13:35.csv,scenario_imgs/2025-07-27 04:13:35.png
+2025-07-27 04:14:11,tfpp_l6_0,Val3 : disguise y=4,4.28,,timeseries/2025-07-27 04:14:11.csv,scenario_imgs/2025-07-27 04:14:11.png
+2025-07-27 04:14:26,tfpp_l6_0,Val3 : adv y=4,4.37,,timeseries/2025-07-27 04:14:26.csv,scenario_imgs/2025-07-27 04:14:26.png
+2025-07-27 04:16:38,tfpp_l6_0,Val0 : actual stop sign,4.66,,timeseries/2025-07-27 04:16:38.csv,scenario_imgs/2025-07-27 04:16:38.png
+2025-07-27 04:17:13,tfpp_l6_0,Val3 : actual stop sign,4.14,,timeseries/2025-07-27 04:17:13.csv,scenario_imgs/2025-07-27 04:17:13.png
+2025-07-27 04:32:38,tfpp_l6_0,Val0 : no pedestrians,4.67,,timeseries/2025-07-27 04:32:38.csv,scenario_imgs/2025-07-27 04:32:38.png
+2025-07-27 04:33:38,tfpp_l6_0,Val3 : no pedestrians,4.46,,timeseries/2025-07-27 04:33:38.csv,scenario_imgs/2025-07-27 04:33:38.png
+2025-07-27 04:33:52,tfpp_l6_0,Val0 : benign y=4,4.66,,timeseries/2025-07-27 04:33:52.csv,scenario_imgs/2025-07-27 04:33:52.png
+2025-07-27 04:34:07,tfpp_l6_0,Val0 : disguise y=4,4.64,,timeseries/2025-07-27 04:34:07.csv,scenario_imgs/2025-07-27 04:34:07.png
+2025-07-27 04:34:22,tfpp_l6_0,Val0 : adv y=4,4.60,,timeseries/2025-07-27 04:34:22.csv,scenario_imgs/2025-07-27 04:34:22.png
+2025-07-27 04:34:37,tfpp_l6_0,Val3 : benign y=4,3.97,,timeseries/2025-07-27 04:34:37.csv,scenario_imgs/2025-07-27 04:34:37.png
+2025-07-27 04:34:53,tfpp_l6_0,Val3 : disguise y=4,4.31,,timeseries/2025-07-27 04:34:53.csv,scenario_imgs/2025-07-27 04:34:53.png
+2025-07-27 04:35:08,tfpp_l6_0,Val3 : adv y=4,3.88,,timeseries/2025-07-27 04:35:08.csv,scenario_imgs/2025-07-27 04:35:08.png
+2025-07-27 04:35:23,tfpp_l6_0,Val0 : actual stop sign,4.66,,timeseries/2025-07-27 04:35:23.csv,scenario_imgs/2025-07-27 04:35:23.png
+2025-07-27 04:41:32,tfpp_l6_0,Val3 : actual stop sign,3.86,,timeseries/2025-07-27 04:41:32.csv,scenario_imgs/2025-07-27 04:41:32.png
+2025-07-27 04:44:44,tfpp_l6_0,Val0 : no pedestrians,4.65,,timeseries/2025-07-27 04:44:44.csv,scenario_imgs/2025-07-27 04:44:44.png
+2025-07-27 04:47:39,tfpp_l6_0,Val3 : no pedestrians,4.47,,timeseries/2025-07-27 04:47:39.csv,scenario_imgs/2025-07-27 04:47:39.png
+2025-07-27 04:48:13,tfpp_l6_0,Val0 : benign y=4,4.67,,timeseries/2025-07-27 04:48:13.csv,scenario_imgs/2025-07-27 04:48:13.png
+2025-07-27 04:48:52,tfpp_l6_0,Val0 : disguise y=4,4.68,,timeseries/2025-07-27 04:48:52.csv,scenario_imgs/2025-07-27 04:48:52.png
+2025-07-27 04:49:07,tfpp_l6_0,Val0 : adv y=4,4.68,,timeseries/2025-07-27 04:49:07.csv,scenario_imgs/2025-07-27 04:49:07.png
+2025-07-27 04:49:23,tfpp_l6_0,Val3 : benign y=4,4.24,,timeseries/2025-07-27 04:49:23.csv,scenario_imgs/2025-07-27 04:49:23.png
+2025-07-27 04:50:03,tfpp_l6_0,Val3 : disguise y=4,4.11,,timeseries/2025-07-27 04:50:03.csv,scenario_imgs/2025-07-27 04:50:03.png
+2025-07-27 04:50:38,tfpp_l6_0,Val3 : adv y=4,4.40,,timeseries/2025-07-27 04:50:38.csv,scenario_imgs/2025-07-27 04:50:38.png
+2025-07-27 04:57:48,tfpp_l6_0,Val0 : actual stop sign,4.59,,timeseries/2025-07-27 04:57:48.csv,scenario_imgs/2025-07-27 04:57:48.png
+2025-07-27 05:05:31,tfpp_l6_0,Val3 : actual stop sign,4.00,,timeseries/2025-07-27 05:05:31.csv,scenario_imgs/2025-07-27 05:05:31.png
+2025-07-27 05:09:25,tfpp_l6_0,Val0 : no pedestrians,4.64,,timeseries/2025-07-27 05:09:25.csv,scenario_imgs/2025-07-27 05:09:25.png
+2025-07-27 05:12:46,tfpp_l6_0,Val3 : no pedestrians,4.14,,timeseries/2025-07-27 05:12:46.csv,scenario_imgs/2025-07-27 05:12:46.png
+2025-07-27 05:13:20,tfpp_l6_0,Val0 : benign y=4,4.67,,timeseries/2025-07-27 05:13:20.csv,scenario_imgs/2025-07-27 05:13:20.png
+2025-07-27 05:14:19,tfpp_l6_0,Val0 : disguise y=4,4.62,,timeseries/2025-07-27 05:14:19.csv,scenario_imgs/2025-07-27 05:14:19.png
+2025-07-27 05:14:34,tfpp_l6_0,Val0 : adv y=4,4.68,,timeseries/2025-07-27 05:14:34.csv,scenario_imgs/2025-07-27 05:14:34.png
+2025-07-27 05:16:56,tfpp_l6_0,Val3 : benign y=4,4.19,,timeseries/2025-07-27 05:16:56.csv,scenario_imgs/2025-07-27 05:16:56.png
+2025-07-27 05:17:51,tfpp_l6_0,Val3 : disguise y=4,4.12,,timeseries/2025-07-27 05:17:51.csv,scenario_imgs/2025-07-27 05:17:51.png
+2025-07-27 05:19:06,tfpp_l6_0,Val3 : adv y=4,3.92,,timeseries/2025-07-27 05:19:06.csv,scenario_imgs/2025-07-27 05:19:06.png
+2025-07-27 17:20:36,tfpp_l6_0,Val0 : actual stop sign,4.65,,timeseries/2025-07-27 17:20:36.csv,scenario_imgs/2025-07-27 17:20:36.png
+2025-07-27 17:23:25,tfpp_l6_0,Val3 : actual stop sign,3.97,,timeseries/2025-07-27 17:23:25.csv,scenario_imgs/2025-07-27 17:23:25.png
+2025-07-27 17:27:26,tfpp_l6_0,Val0 : no pedestrians,4.67,,timeseries/2025-07-27 17:27:26.csv,scenario_imgs/2025-07-27 17:27:26.png
+2025-07-27 17:31:31,tfpp_l6_0,Val3 : no pedestrians,3.91,,timeseries/2025-07-27 17:31:31.csv,scenario_imgs/2025-07-27 17:31:31.png
+2025-07-27 17:32:03,tfpp_l6_0,Val0 : benign y=4,4.71,,timeseries/2025-07-27 17:32:03.csv,scenario_imgs/2025-07-27 17:32:03.png
+2025-07-27 17:32:17,tfpp_l6_0,Val0 : disguise y=4,4.66,,timeseries/2025-07-27 17:32:17.csv,scenario_imgs/2025-07-27 17:32:17.png
+2025-07-27 17:32:30,tfpp_l6_0,Val0 : adv y=4,4.68,,timeseries/2025-07-27 17:32:30.csv,scenario_imgs/2025-07-27 17:32:30.png
+2025-07-27 17:32:45,tfpp_l6_0,Val3 : benign y=4,3.85,,timeseries/2025-07-27 17:32:45.csv,scenario_imgs/2025-07-27 17:32:45.png
+2025-07-27 17:34:39,tfpp_l6_0,Val3 : disguise y=4,3.97,,timeseries/2025-07-27 17:34:39.csv,scenario_imgs/2025-07-27 17:34:39.png
+2025-07-27 17:35:17,tfpp_l6_0,Val3 : adv y=4,4.14,,timeseries/2025-07-27 17:35:17.csv,scenario_imgs/2025-07-27 17:35:17.png
+2025-07-27 17:36:49,tfpp_l6_0,Val0 : actual stop sign,4.67,,timeseries/2025-07-27 17:36:49.csv,scenario_imgs/2025-07-27 17:36:49.png
+2025-07-27 17:51:03,tfpp_l6_0,Val3 : actual stop sign,3.84,,timeseries/2025-07-27 17:51:03.csv,scenario_imgs/2025-07-27 17:51:03.png
+2025-07-27 17:54:18,tfpp_l6_0,Val0 : no pedestrians,4.65,,timeseries/2025-07-27 17:54:18.csv,scenario_imgs/2025-07-27 17:54:18.png
+2025-07-27 18:00:33,tfpp_l6_0,Val3 : no pedestrians,4.61,,timeseries/2025-07-27 18:00:33.csv,scenario_imgs/2025-07-27 18:00:33.png
+2025-07-27 18:00:47,tfpp_l6_0,Val0 : benign y=4,4.68,,timeseries/2025-07-27 18:00:47.csv,scenario_imgs/2025-07-27 18:00:47.png
+2025-07-27 18:01:58,tfpp_l6_0,Val0 : disguise y=4,4.67,,timeseries/2025-07-27 18:01:58.csv,scenario_imgs/2025-07-27 18:01:58.png
+2025-07-27 18:03:15,tfpp_l6_0,Val0 : adv y=4,4.68,,timeseries/2025-07-27 18:03:15.csv,scenario_imgs/2025-07-27 18:03:15.png
+2025-07-27 18:04:47,tfpp_l6_0,Val3 : benign y=4,3.90,,timeseries/2025-07-27 18:04:47.csv,scenario_imgs/2025-07-27 18:04:47.png
+2025-07-27 18:05:02,tfpp_l6_0,Val3 : disguise y=4,4.43,,timeseries/2025-07-27 18:05:02.csv,scenario_imgs/2025-07-27 18:05:02.png
+2025-07-27 18:05:16,tfpp_l6_0,Val3 : adv y=4,4.48,,timeseries/2025-07-27 18:05:16.csv,scenario_imgs/2025-07-27 18:05:16.png
+2025-07-27 20:18:51,tfpp_l6_0,Val0 : actual stop sign,4.66,,timeseries/2025-07-27 20:18:51.csv,scenario_imgs/2025-07-27 20:18:51.png
+2025-07-27 20:19:06,tfpp_l6_0,Val3 : actual stop sign,3.98,,timeseries/2025-07-27 20:19:06.csv,scenario_imgs/2025-07-27 20:19:06.png
+2025-07-27 20:19:59,tfpp_l6_0,Val0 : no pedestrians,4.68,,timeseries/2025-07-27 20:19:59.csv,scenario_imgs/2025-07-27 20:19:59.png
+2025-07-27 20:20:13,tfpp_l6_0,Val3 : no pedestrians,4.60,,timeseries/2025-07-27 20:20:13.csv,scenario_imgs/2025-07-27 20:20:13.png
+2025-07-27 20:21:08,tfpp_l6_0,Val0 : benign y=4,4.68,,timeseries/2025-07-27 20:21:08.csv,scenario_imgs/2025-07-27 20:21:08.png
+2025-07-27 20:22:59,tfpp_l6_0,Val0 : disguise y=4,4.64,,timeseries/2025-07-27 20:22:59.csv,scenario_imgs/2025-07-27 20:22:59.png
+2025-07-27 20:23:13,tfpp_l6_0,Val0 : adv y=4,4.67,,timeseries/2025-07-27 20:23:13.csv,scenario_imgs/2025-07-27 20:23:13.png
+2025-07-27 20:24:29,tfpp_l6_0,Val3 : benign y=4,4.23,,timeseries/2025-07-27 20:24:29.csv,scenario_imgs/2025-07-27 20:24:29.png
+2025-07-27 20:24:43,tfpp_l6_0,Val3 : disguise y=4,4.48,,timeseries/2025-07-27 20:24:43.csv,scenario_imgs/2025-07-27 20:24:43.png
+2025-07-27 20:24:58,tfpp_l6_0,Val3 : adv y=4,4.55,,timeseries/2025-07-27 20:24:58.csv,scenario_imgs/2025-07-27 20:24:58.png
+2025-07-27 20:36:18,tfpp_lav_0,Val0 : actual stop sign,4.62,,timeseries/2025-07-27 20:36:18.csv,scenario_imgs/2025-07-27 20:36:18.png
+2025-07-27 20:43:54,tfpp_lav_0,Val3 : actual stop sign,4.33,,timeseries/2025-07-27 20:43:54.csv,scenario_imgs/2025-07-27 20:43:54.png
+2025-07-27 20:50:11,tfpp_lav_0,Val0 : no pedestrians,4.62,,timeseries/2025-07-27 20:50:11.csv,scenario_imgs/2025-07-27 20:50:11.png
+2025-07-27 21:03:23,tfpp_lav_0,Val3 : no pedestrians,4.62,,timeseries/2025-07-27 21:03:23.csv,scenario_imgs/2025-07-27 21:03:23.png
+2025-07-27 21:03:37,tfpp_lav_0,Val0 : benign y=4,4.68,,timeseries/2025-07-27 21:03:37.csv,scenario_imgs/2025-07-27 21:03:37.png
+2025-07-27 21:03:51,tfpp_lav_0,Val0 : disguise y=4,4.60,,timeseries/2025-07-27 21:03:51.csv,scenario_imgs/2025-07-27 21:03:51.png
+2025-07-27 21:04:05,tfpp_lav_0,Val0 : adv y=4,4.68,,timeseries/2025-07-27 21:04:05.csv,scenario_imgs/2025-07-27 21:04:05.png
+2025-07-27 21:07:29,tfpp_lav_0,Val3 : benign y=4,4.22,,timeseries/2025-07-27 21:07:29.csv,scenario_imgs/2025-07-27 21:07:29.png
+2025-07-27 21:07:44,tfpp_lav_0,Val3 : disguise y=4,4.58,,timeseries/2025-07-27 21:07:44.csv,scenario_imgs/2025-07-27 21:07:44.png
+2025-07-27 21:07:58,tfpp_lav_0,Val3 : adv y=4,4.26,,timeseries/2025-07-27 21:07:58.csv,scenario_imgs/2025-07-27 21:07:58.png
+2025-07-27 21:08:52,tfpp_lav_0,Val0 : actual stop sign,4.58,,timeseries/2025-07-27 21:08:52.csv,scenario_imgs/2025-07-27 21:08:52.png
+2025-07-27 21:09:46,tfpp_lav_0,Val3 : actual stop sign,4.07,,timeseries/2025-07-27 21:09:46.csv,scenario_imgs/2025-07-27 21:09:46.png
+2025-07-27 21:10:36,tfpp_lav_0,Val0 : no pedestrians,4.64,,timeseries/2025-07-27 21:10:36.csv,scenario_imgs/2025-07-27 21:10:36.png
+2025-07-27 21:15:43,tfpp_lav_0,Val3 : no pedestrians,4.62,,timeseries/2025-07-27 21:15:43.csv,scenario_imgs/2025-07-27 21:15:43.png
+2025-07-27 21:15:57,tfpp_lav_0,Val0 : benign y=4,4.68,,timeseries/2025-07-27 21:15:57.csv,scenario_imgs/2025-07-27 21:15:57.png
+2025-07-27 21:16:46,tfpp_lav_0,Val0 : disguise y=4,4.58,,timeseries/2025-07-27 21:16:46.csv,scenario_imgs/2025-07-27 21:16:46.png
+2025-07-27 21:18:16,tfpp_lav_0,Val0 : adv y=4,4.59,,timeseries/2025-07-27 21:18:16.csv,scenario_imgs/2025-07-27 21:18:16.png
+2025-07-27 21:18:31,tfpp_lav_0,Val3 : benign y=4,4.56,,timeseries/2025-07-27 21:18:31.csv,scenario_imgs/2025-07-27 21:18:31.png
+2025-07-27 21:18:46,tfpp_lav_0,Val3 : disguise y=4,4.52,,timeseries/2025-07-27 21:18:46.csv,scenario_imgs/2025-07-27 21:18:46.png
+2025-07-27 21:19:43,tfpp_lav_0,Val3 : adv y=4,4.25,,timeseries/2025-07-27 21:19:43.csv,scenario_imgs/2025-07-27 21:19:43.png
+2025-07-27 21:25:14,tfpp_lav_0,Val0 : actual stop sign,4.54,,timeseries/2025-07-27 21:25:14.csv,scenario_imgs/2025-07-27 21:25:14.png
+2025-07-27 21:30:04,tfpp_lav_0,Val3 : actual stop sign,4.34,,timeseries/2025-07-27 21:30:04.csv,scenario_imgs/2025-07-27 21:30:04.png
+2025-07-27 21:30:18,tfpp_lav_0,Val0 : no pedestrians,4.59,,timeseries/2025-07-27 21:30:18.csv,scenario_imgs/2025-07-27 21:30:18.png
+2025-07-27 21:37:49,tfpp_lav_0,Val3 : no pedestrians,4.64,,timeseries/2025-07-27 21:37:49.csv,scenario_imgs/2025-07-27 21:37:49.png
+2025-07-27 21:38:41,tfpp_lav_0,Val0 : benign y=4,4.68,,timeseries/2025-07-27 21:38:41.csv,scenario_imgs/2025-07-27 21:38:41.png
+2025-07-27 21:38:54,tfpp_lav_0,Val0 : disguise y=4,4.65,,timeseries/2025-07-27 21:38:54.csv,scenario_imgs/2025-07-27 21:38:54.png
+2025-07-27 21:40:27,tfpp_lav_0,Val0 : adv y=4,4.66,,timeseries/2025-07-27 21:40:27.csv,scenario_imgs/2025-07-27 21:40:27.png
+2025-07-27 21:40:42,tfpp_lav_0,Val3 : benign y=4,4.13,,timeseries/2025-07-27 21:40:42.csv,scenario_imgs/2025-07-27 21:40:42.png
+2025-07-27 21:40:57,tfpp_lav_0,Val3 : disguise y=4,4.19,,timeseries/2025-07-27 21:40:57.csv,scenario_imgs/2025-07-27 21:40:57.png
+2025-07-27 21:41:11,tfpp_lav_0,Val3 : adv y=4,4.57,,timeseries/2025-07-27 21:41:11.csv,scenario_imgs/2025-07-27 21:41:11.png
+2025-07-27 22:00:48,tfpp_lav_0,Val0 : actual stop sign,4.55,,timeseries/2025-07-27 22:00:48.csv,scenario_imgs/2025-07-27 22:00:48.png
+2025-07-27 22:05:09,tfpp_lav_0,Val3 : actual stop sign,4.15,,timeseries/2025-07-27 22:05:09.csv,scenario_imgs/2025-07-27 22:05:09.png
+2025-07-27 22:21:18,tfpp_lav_0,Val0 : no pedestrians,4.62,,timeseries/2025-07-27 22:21:18.csv,scenario_imgs/2025-07-27 22:21:18.png
+2025-07-27 22:23:35,tfpp_lav_0,Val3 : no pedestrians,4.65,,timeseries/2025-07-27 22:23:35.csv,scenario_imgs/2025-07-27 22:23:35.png
+2025-07-27 22:26:48,tfpp_lav_0,Val0 : benign y=4,4.69,,timeseries/2025-07-27 22:26:48.csv,scenario_imgs/2025-07-27 22:26:48.png
+2025-07-27 22:27:03,tfpp_lav_0,Val0 : disguise y=4,4.66,,timeseries/2025-07-27 22:27:03.csv,scenario_imgs/2025-07-27 22:27:03.png
+2025-07-27 22:28:41,tfpp_lav_0,Val0 : adv y=4,4.64,,timeseries/2025-07-27 22:28:41.csv,scenario_imgs/2025-07-27 22:28:41.png
+2025-07-27 22:29:16,tfpp_lav_0,Val3 : benign y=4,4.55,,timeseries/2025-07-27 22:29:16.csv,scenario_imgs/2025-07-27 22:29:16.png
+2025-07-27 22:29:31,tfpp_lav_0,Val3 : disguise y=4,4.49,,timeseries/2025-07-27 22:29:31.csv,scenario_imgs/2025-07-27 22:29:31.png
+2025-07-27 22:29:47,tfpp_lav_0,Val3 : adv y=4,4.59,,timeseries/2025-07-27 22:29:47.csv,scenario_imgs/2025-07-27 22:29:47.png
+2025-07-27 22:36:14,tfpp_lav_0,Val0 : actual stop sign,4.61,,timeseries/2025-07-27 22:36:14.csv,scenario_imgs/2025-07-27 22:36:14.png
+2025-07-27 22:36:29,tfpp_lav_0,Val3 : actual stop sign,4.39,,timeseries/2025-07-27 22:36:29.csv,scenario_imgs/2025-07-27 22:36:29.png
+2025-07-27 22:37:47,tfpp_lav_0,Val0 : no pedestrians,4.63,,timeseries/2025-07-27 22:37:47.csv,scenario_imgs/2025-07-27 22:37:47.png
+2025-07-27 22:38:02,tfpp_lav_0,Val3 : no pedestrians,4.63,,timeseries/2025-07-27 22:38:02.csv,scenario_imgs/2025-07-27 22:38:02.png
+2025-07-27 22:38:17,tfpp_lav_0,Val0 : benign y=4,4.57,,timeseries/2025-07-27 22:38:17.csv,scenario_imgs/2025-07-27 22:38:17.png
+2025-07-27 22:38:32,tfpp_lav_0,Val0 : disguise y=4,4.68,,timeseries/2025-07-27 22:38:32.csv,scenario_imgs/2025-07-27 22:38:32.png
+2025-07-27 22:38:47,tfpp_lav_0,Val0 : adv y=4,4.64,,timeseries/2025-07-27 22:38:47.csv,scenario_imgs/2025-07-27 22:38:47.png
+2025-07-27 22:39:47,tfpp_lav_0,Val3 : benign y=4,4.55,,timeseries/2025-07-27 22:39:47.csv,scenario_imgs/2025-07-27 22:39:47.png
+2025-07-27 22:41:07,tfpp_lav_0,Val3 : disguise y=4,3.91,,timeseries/2025-07-27 22:41:07.csv,scenario_imgs/2025-07-27 22:41:07.png
+2025-07-27 22:41:23,tfpp_lav_0,Val3 : adv y=4,4.35,,timeseries/2025-07-27 22:41:23.csv,scenario_imgs/2025-07-27 22:41:23.png
+2025-07-27 22:50:07,tfpp_lav_0,Val0 : actual stop sign,4.64,,timeseries/2025-07-27 22:50:07.csv,scenario_imgs/2025-07-27 22:50:07.png
+2025-07-27 23:07:00,tfpp_lav_0,Val3 : actual stop sign,4.33,,timeseries/2025-07-27 23:07:00.csv,scenario_imgs/2025-07-27 23:07:00.png
+2025-07-27 23:14:49,tfpp_lav_0,Val0 : no pedestrians,4.66,,timeseries/2025-07-27 23:14:49.csv,scenario_imgs/2025-07-27 23:14:49.png
+2025-07-27 23:29:18,tfpp_lav_0,Val3 : no pedestrians,4.63,,timeseries/2025-07-27 23:29:18.csv,scenario_imgs/2025-07-27 23:29:18.png
+2025-07-27 23:29:33,tfpp_lav_0,Val0 : benign y=4,4.67,,timeseries/2025-07-27 23:29:33.csv,scenario_imgs/2025-07-27 23:29:33.png
+2025-07-27 23:29:47,tfpp_lav_0,Val0 : disguise y=4,4.60,,timeseries/2025-07-27 23:29:47.csv,scenario_imgs/2025-07-27 23:29:47.png
+2025-07-27 23:30:21,tfpp_lav_0,Val0 : adv y=4,4.67,,timeseries/2025-07-27 23:30:21.csv,scenario_imgs/2025-07-27 23:30:21.png
+2025-07-27 23:30:37,tfpp_lav_0,Val3 : benign y=4,4.60,,timeseries/2025-07-27 23:30:37.csv,scenario_imgs/2025-07-27 23:30:37.png
+2025-07-27 23:30:52,tfpp_lav_0,Val3 : disguise y=4,4.65,,timeseries/2025-07-27 23:30:52.csv,scenario_imgs/2025-07-27 23:30:52.png
+2025-07-27 23:31:08,tfpp_lav_0,Val3 : adv y=4,4.59,,timeseries/2025-07-27 23:31:08.csv,scenario_imgs/2025-07-27 23:31:08.png
+2025-07-27 23:34:18,tfpp_lav_0,Val0 : actual stop sign,4.63,,timeseries/2025-07-27 23:34:18.csv,scenario_imgs/2025-07-27 23:34:18.png
+2025-07-27 23:34:53,tfpp_lav_0,Val3 : actual stop sign,4.31,,timeseries/2025-07-27 23:34:53.csv,scenario_imgs/2025-07-27 23:34:53.png
+2025-07-27 23:41:39,tfpp_lav_0,Val0 : no pedestrians,4.60,,timeseries/2025-07-27 23:41:39.csv,scenario_imgs/2025-07-27 23:41:39.png
+2025-07-27 23:45:39,tfpp_lav_0,Val3 : no pedestrians,4.64,,timeseries/2025-07-27 23:45:39.csv,scenario_imgs/2025-07-27 23:45:39.png
+2025-07-27 23:46:12,tfpp_lav_0,Val0 : benign y=4,4.66,,timeseries/2025-07-27 23:46:12.csv,scenario_imgs/2025-07-27 23:46:12.png
+2025-07-27 23:46:27,tfpp_lav_0,Val0 : disguise y=4,4.65,,timeseries/2025-07-27 23:46:27.csv,scenario_imgs/2025-07-27 23:46:27.png
+2025-07-27 23:47:21,tfpp_lav_0,Val0 : adv y=4,4.68,,timeseries/2025-07-27 23:47:21.csv,scenario_imgs/2025-07-27 23:47:21.png
+2025-07-27 23:47:37,tfpp_lav_0,Val3 : benign y=4,4.19,,timeseries/2025-07-27 23:47:37.csv,scenario_imgs/2025-07-27 23:47:37.png
+2025-07-27 23:47:52,tfpp_lav_0,Val3 : disguise y=4,4.66,,timeseries/2025-07-27 23:47:52.csv,scenario_imgs/2025-07-27 23:47:52.png
+2025-07-27 23:48:33,tfpp_lav_0,Val3 : adv y=4,4.43,,timeseries/2025-07-27 23:48:33.csv,scenario_imgs/2025-07-27 23:48:33.png
+2025-07-27 23:53:25,tfpp_lav_0,Val0 : actual stop sign,4.66,,timeseries/2025-07-27 23:53:25.csv,scenario_imgs/2025-07-27 23:53:25.png
+2025-07-28 00:00:41,tfpp_lav_0,Val3 : actual stop sign,4.32,,timeseries/2025-07-28 00:00:41.csv,scenario_imgs/2025-07-28 00:00:41.png
+2025-07-28 00:01:52,tfpp_lav_0,Val0 : no pedestrians,4.65,,timeseries/2025-07-28 00:01:52.csv,scenario_imgs/2025-07-28 00:01:52.png
+2025-07-28 00:02:47,tfpp_lav_0,Val3 : no pedestrians,4.60,,timeseries/2025-07-28 00:02:47.csv,scenario_imgs/2025-07-28 00:02:47.png
+2025-07-28 00:04:03,tfpp_lav_0,Val0 : benign y=4,4.68,,timeseries/2025-07-28 00:04:03.csv,scenario_imgs/2025-07-28 00:04:03.png
+2025-07-28 00:04:37,tfpp_lav_0,Val0 : disguise y=4,4.67,,timeseries/2025-07-28 00:04:37.csv,scenario_imgs/2025-07-28 00:04:37.png
+2025-07-28 00:04:51,tfpp_lav_0,Val0 : adv y=4,4.66,,timeseries/2025-07-28 00:04:51.csv,scenario_imgs/2025-07-28 00:04:51.png
+2025-07-28 00:05:07,tfpp_lav_0,Val3 : benign y=4,4.42,,timeseries/2025-07-28 00:05:07.csv,scenario_imgs/2025-07-28 00:05:07.png
+2025-07-28 00:06:06,tfpp_lav_0,Val3 : disguise y=4,4.16,,timeseries/2025-07-28 00:06:06.csv,scenario_imgs/2025-07-28 00:06:06.png
+2025-07-28 00:07:03,tfpp_lav_0,Val3 : adv y=4,4.63,,timeseries/2025-07-28 00:07:03.csv,scenario_imgs/2025-07-28 00:07:03.png
+2025-07-28 00:17:21,tfpp_lav_0,Val0 : actual stop sign,4.63,,timeseries/2025-07-28 00:17:21.csv,scenario_imgs/2025-07-28 00:17:21.png
+2025-07-28 00:17:59,tfpp_lav_0,Val3 : actual stop sign,4.39,,timeseries/2025-07-28 00:17:59.csv,scenario_imgs/2025-07-28 00:17:59.png
+2025-07-28 00:19:31,tfpp_lav_0,Val0 : no pedestrians,4.52,,timeseries/2025-07-28 00:19:31.csv,scenario_imgs/2025-07-28 00:19:31.png
+2025-07-28 00:22:10,tfpp_lav_0,Val3 : no pedestrians,4.49,,timeseries/2025-07-28 00:22:10.csv,scenario_imgs/2025-07-28 00:22:10.png
+2025-07-28 00:24:32,tfpp_lav_0,Val0 : benign y=4,4.69,,timeseries/2025-07-28 00:24:32.csv,scenario_imgs/2025-07-28 00:24:32.png
+2025-07-28 00:24:47,tfpp_lav_0,Val0 : disguise y=4,4.66,,timeseries/2025-07-28 00:24:47.csv,scenario_imgs/2025-07-28 00:24:47.png
+2025-07-28 00:25:01,tfpp_lav_0,Val0 : adv y=4,4.17,,timeseries/2025-07-28 00:25:01.csv,scenario_imgs/2025-07-28 00:25:01.png
+2025-07-28 00:25:37,tfpp_lav_0,Val3 : benign y=4,4.61,,timeseries/2025-07-28 00:25:37.csv,scenario_imgs/2025-07-28 00:25:37.png
+2025-07-28 00:25:53,tfpp_lav_0,Val3 : disguise y=4,4.52,,timeseries/2025-07-28 00:25:53.csv,scenario_imgs/2025-07-28 00:25:53.png
+2025-07-28 00:26:08,tfpp_lav_0,Val3 : adv y=4,4.55,,timeseries/2025-07-28 00:26:08.csv,scenario_imgs/2025-07-28 00:26:08.png
+2025-07-28 00:37:43,tfpp_lav_0,Val0 : actual stop sign,4.61,,timeseries/2025-07-28 00:37:43.csv,scenario_imgs/2025-07-28 00:37:43.png
+2025-07-28 00:45:23,tfpp_lav_0,Val3 : actual stop sign,4.36,,timeseries/2025-07-28 00:45:23.csv,scenario_imgs/2025-07-28 00:45:23.png
+2025-07-28 00:45:38,tfpp_lav_0,Val0 : no pedestrians,4.62,,timeseries/2025-07-28 00:45:38.csv,scenario_imgs/2025-07-28 00:45:38.png
+2025-07-28 00:47:36,tfpp_lav_0,Val3 : no pedestrians,4.64,,timeseries/2025-07-28 00:47:36.csv,scenario_imgs/2025-07-28 00:47:36.png
+2025-07-28 00:47:50,tfpp_lav_0,Val0 : benign y=4,4.67,,timeseries/2025-07-28 00:47:50.csv,scenario_imgs/2025-07-28 00:47:50.png
+2025-07-28 00:49:05,tfpp_lav_0,Val0 : disguise y=4,4.62,,timeseries/2025-07-28 00:49:05.csv,scenario_imgs/2025-07-28 00:49:05.png
+2025-07-28 00:49:20,tfpp_lav_0,Val0 : adv y=4,4.62,,timeseries/2025-07-28 00:49:20.csv,scenario_imgs/2025-07-28 00:49:20.png
+2025-07-28 00:49:35,tfpp_lav_0,Val3 : benign y=4,4.30,,timeseries/2025-07-28 00:49:35.csv,scenario_imgs/2025-07-28 00:49:35.png
+2025-07-28 00:49:51,tfpp_lav_0,Val3 : disguise y=4,4.32,,timeseries/2025-07-28 00:49:51.csv,scenario_imgs/2025-07-28 00:49:51.png
+2025-07-28 00:50:07,tfpp_lav_0,Val3 : adv y=4,4.07,,timeseries/2025-07-28 00:50:07.csv,scenario_imgs/2025-07-28 00:50:07.png
+2025-07-28 00:54:00,tfpp_wp_0,Val0 : actual stop sign,5.72,,timeseries/2025-07-28 00:54:00.csv,scenario_imgs/2025-07-28 00:54:00.png
+2025-07-28 01:17:20,tfpp_wp_0,Val3 : actual stop sign,5.59,,timeseries/2025-07-28 01:17:20.csv,scenario_imgs/2025-07-28 01:17:20.png
+2025-07-28 01:22:04,tfpp_wp_0,Val0 : no pedestrians,5.75,,timeseries/2025-07-28 01:22:04.csv,scenario_imgs/2025-07-28 01:22:04.png
+2025-07-28 01:30:18,tfpp_wp_0,Val3 : no pedestrians,5.51,,timeseries/2025-07-28 01:30:18.csv,scenario_imgs/2025-07-28 01:30:18.png
+2025-07-28 01:30:33,tfpp_wp_0,Val0 : benign y=4,5.74,,timeseries/2025-07-28 01:30:33.csv,scenario_imgs/2025-07-28 01:30:33.png
+2025-07-28 01:33:18,tfpp_wp_0,Val0 : disguise y=4,5.77,,timeseries/2025-07-28 01:33:18.csv,scenario_imgs/2025-07-28 01:33:18.png
+2025-07-28 01:33:33,tfpp_wp_0,Val0 : adv y=4,5.74,,timeseries/2025-07-28 01:33:33.csv,scenario_imgs/2025-07-28 01:33:33.png
+2025-07-28 01:33:48,tfpp_wp_0,Val3 : benign y=4,3.63,,timeseries/2025-07-28 01:33:48.csv,scenario_imgs/2025-07-28 01:33:48.png
+2025-07-28 01:34:24,tfpp_wp_0,Val3 : disguise y=4,3.59,,timeseries/2025-07-28 01:34:24.csv,scenario_imgs/2025-07-28 01:34:24.png
+2025-07-28 01:36:46,tfpp_wp_0,Val3 : adv y=4,2.79,,timeseries/2025-07-28 01:36:46.csv,scenario_imgs/2025-07-28 01:36:46.png
+2025-07-28 01:37:20,tfpp_wp_0,Val0 : actual stop sign,5.74,,timeseries/2025-07-28 01:37:20.csv,scenario_imgs/2025-07-28 01:37:20.png
+2025-07-28 01:37:55,tfpp_wp_0,Val3 : actual stop sign,5.53,,timeseries/2025-07-28 01:37:55.csv,scenario_imgs/2025-07-28 01:37:55.png
+2025-07-28 01:48:29,tfpp_wp_0,Val0 : no pedestrians,5.71,,timeseries/2025-07-28 01:48:29.csv,scenario_imgs/2025-07-28 01:48:29.png
+2025-07-28 01:53:08,tfpp_wp_0,Val3 : no pedestrians,4.33,,timeseries/2025-07-28 01:53:08.csv,scenario_imgs/2025-07-28 01:53:08.png
+2025-07-28 01:53:46,tfpp_wp_0,Val0 : benign y=4,5.74,,timeseries/2025-07-28 01:53:46.csv,scenario_imgs/2025-07-28 01:53:46.png
+2025-07-28 01:54:41,tfpp_wp_0,Val0 : disguise y=4,5.67,,timeseries/2025-07-28 01:54:41.csv,scenario_imgs/2025-07-28 01:54:41.png
+2025-07-28 01:55:15,tfpp_wp_0,Val0 : adv y=4,5.76,,timeseries/2025-07-28 01:55:15.csv,scenario_imgs/2025-07-28 01:55:15.png
+2025-07-28 01:55:50,tfpp_wp_0,Val3 : benign y=4,3.20,,timeseries/2025-07-28 01:55:50.csv,scenario_imgs/2025-07-28 01:55:50.png
+2025-07-28 01:56:40,tfpp_wp_0,Val3 : disguise y=4,3.86,,timeseries/2025-07-28 01:56:40.csv,scenario_imgs/2025-07-28 01:56:40.png
+2025-07-28 01:57:30,tfpp_wp_0,Val3 : adv y=4,2.75,,timeseries/2025-07-28 01:57:30.csv,scenario_imgs/2025-07-28 01:57:30.png
+2025-07-28 02:01:15,tfpp_wp_0,Val0 : actual stop sign,5.70,,timeseries/2025-07-28 02:01:15.csv,scenario_imgs/2025-07-28 02:01:15.png
+2025-07-28 02:20:24,tfpp_wp_0,Val3 : actual stop sign,5.57,,timeseries/2025-07-28 02:20:24.csv,scenario_imgs/2025-07-28 02:20:24.png
+2025-07-28 02:23:03,tfpp_wp_0,Val0 : no pedestrians,5.74,,timeseries/2025-07-28 02:23:03.csv,scenario_imgs/2025-07-28 02:23:03.png
+2025-07-28 02:23:58,tfpp_wp_0,Val3 : no pedestrians,4.37,,timeseries/2025-07-28 02:23:58.csv,scenario_imgs/2025-07-28 02:23:58.png
+2025-07-28 02:24:13,tfpp_wp_0,Val0 : benign y=4,5.64,,timeseries/2025-07-28 02:24:13.csv,scenario_imgs/2025-07-28 02:24:13.png
+2025-07-28 02:24:42,tfpp_wp_0,Val0 : disguise y=4,5.75,,timeseries/2025-07-28 02:24:42.csv,scenario_imgs/2025-07-28 02:24:42.png
+2025-07-28 02:25:29,tfpp_wp_0,Val0 : adv y=4,5.77,,timeseries/2025-07-28 02:25:29.csv,scenario_imgs/2025-07-28 02:25:29.png
+2025-07-28 02:25:45,tfpp_wp_0,Val3 : benign y=4,3.58,,timeseries/2025-07-28 02:25:45.csv,scenario_imgs/2025-07-28 02:25:45.png
+2025-07-28 02:26:00,tfpp_wp_0,Val3 : disguise y=4,3.64,,timeseries/2025-07-28 02:26:00.csv,scenario_imgs/2025-07-28 02:26:00.png
+2025-07-28 02:26:16,tfpp_wp_0,Val3 : adv y=4,2.77,,timeseries/2025-07-28 02:26:16.csv,scenario_imgs/2025-07-28 02:26:16.png
+2025-07-28 02:27:45,tfpp_wp_0,Val0 : actual stop sign,5.74,,timeseries/2025-07-28 02:27:45.csv,scenario_imgs/2025-07-28 02:27:45.png
+2025-07-28 02:28:23,tfpp_wp_0,Val3 : actual stop sign,5.64,,timeseries/2025-07-28 02:28:23.csv,scenario_imgs/2025-07-28 02:28:23.png
+2025-07-28 02:33:27,tfpp_wp_0,Val0 : no pedestrians,5.64,,timeseries/2025-07-28 02:33:27.csv,scenario_imgs/2025-07-28 02:33:27.png
+2025-07-28 02:34:22,tfpp_wp_0,Val3 : no pedestrians,4.53,,timeseries/2025-07-28 02:34:22.csv,scenario_imgs/2025-07-28 02:34:22.png
+2025-07-28 02:34:37,tfpp_wp_0,Val0 : benign y=4,5.72,,timeseries/2025-07-28 02:34:37.csv,scenario_imgs/2025-07-28 02:34:37.png
+2025-07-28 02:34:52,tfpp_wp_0,Val0 : disguise y=4,5.75,,timeseries/2025-07-28 02:34:52.csv,scenario_imgs/2025-07-28 02:34:52.png
+2025-07-28 02:35:06,tfpp_wp_0,Val0 : adv y=4,5.76,,timeseries/2025-07-28 02:35:06.csv,scenario_imgs/2025-07-28 02:35:06.png
+2025-07-28 02:35:22,tfpp_wp_0,Val3 : benign y=4,3.11,,timeseries/2025-07-28 02:35:22.csv,scenario_imgs/2025-07-28 02:35:22.png
+2025-07-28 02:35:38,tfpp_wp_0,Val3 : disguise y=4,3.90,,timeseries/2025-07-28 02:35:38.csv,scenario_imgs/2025-07-28 02:35:38.png
+2025-07-28 02:36:13,tfpp_wp_0,Val3 : adv y=4,3.81,,timeseries/2025-07-28 02:36:13.csv,scenario_imgs/2025-07-28 02:36:13.png
+2025-07-28 02:45:53,tfpp_wp_0,Val0 : actual stop sign,5.74,,timeseries/2025-07-28 02:45:53.csv,scenario_imgs/2025-07-28 02:45:53.png
+2025-07-28 02:50:30,tfpp_wp_0,Val3 : actual stop sign,5.61,,timeseries/2025-07-28 02:50:30.csv,scenario_imgs/2025-07-28 02:50:30.png
+2025-07-28 03:02:35,tfpp_wp_0,Val0 : no pedestrians,5.73,,timeseries/2025-07-28 03:02:35.csv,scenario_imgs/2025-07-28 03:02:35.png
+2025-07-28 03:06:09,tfpp_wp_0,Val3 : no pedestrians,4.69,,timeseries/2025-07-28 03:06:09.csv,scenario_imgs/2025-07-28 03:06:09.png
+2025-07-28 03:08:02,tfpp_wp_0,Val0 : benign y=4,5.74,,timeseries/2025-07-28 03:08:02.csv,scenario_imgs/2025-07-28 03:08:02.png
+2025-07-28 03:08:16,tfpp_wp_0,Val0 : disguise y=4,5.74,,timeseries/2025-07-28 03:08:16.csv,scenario_imgs/2025-07-28 03:08:16.png
+2025-07-28 03:08:31,tfpp_wp_0,Val0 : adv y=4,5.74,,timeseries/2025-07-28 03:08:31.csv,scenario_imgs/2025-07-28 03:08:31.png
+2025-07-28 03:08:46,tfpp_wp_0,Val3 : benign y=4,3.57,,timeseries/2025-07-28 03:08:46.csv,scenario_imgs/2025-07-28 03:08:46.png
+2025-07-28 03:09:21,tfpp_wp_0,Val3 : disguise y=4,3.71,,timeseries/2025-07-28 03:09:21.csv,scenario_imgs/2025-07-28 03:09:21.png
+2025-07-28 03:09:56,tfpp_wp_0,Val3 : adv y=4,3.63,,timeseries/2025-07-28 03:09:56.csv,scenario_imgs/2025-07-28 03:09:56.png
+2025-07-28 03:10:11,tfpp_wp_0,Val0 : actual stop sign,5.75,,timeseries/2025-07-28 03:10:11.csv,scenario_imgs/2025-07-28 03:10:11.png
+2025-07-28 03:10:26,tfpp_wp_0,Val3 : actual stop sign,5.56,,timeseries/2025-07-28 03:10:26.csv,scenario_imgs/2025-07-28 03:10:26.png
+2025-07-28 03:20:42,tfpp_wp_0,Val0 : no pedestrians,5.75,,timeseries/2025-07-28 03:20:42.csv,scenario_imgs/2025-07-28 03:20:42.png
+2025-07-28 03:27:54,tfpp_wp_0,Val3 : no pedestrians,4.39,,timeseries/2025-07-28 03:27:54.csv,scenario_imgs/2025-07-28 03:27:54.png
+2025-07-28 03:29:31,tfpp_wp_0,Val0 : benign y=4,5.73,,timeseries/2025-07-28 03:29:31.csv,scenario_imgs/2025-07-28 03:29:31.png
+2025-07-28 03:30:11,tfpp_wp_0,Val0 : disguise y=4,5.75,,timeseries/2025-07-28 03:30:11.csv,scenario_imgs/2025-07-28 03:30:11.png
+2025-07-28 03:31:07,tfpp_wp_0,Val0 : adv y=4,5.66,,timeseries/2025-07-28 03:31:07.csv,scenario_imgs/2025-07-28 03:31:07.png
+2025-07-28 03:32:01,tfpp_wp_0,Val3 : benign y=4,2.93,,timeseries/2025-07-28 03:32:01.csv,scenario_imgs/2025-07-28 03:32:01.png
+2025-07-28 03:32:17,tfpp_wp_0,Val3 : disguise y=4,3.62,,timeseries/2025-07-28 03:32:17.csv,scenario_imgs/2025-07-28 03:32:17.png
+2025-07-28 03:33:15,tfpp_wp_0,Val3 : adv y=4,3.74,,timeseries/2025-07-28 03:33:15.csv,scenario_imgs/2025-07-28 03:33:15.png
+2025-07-28 03:37:26,tfpp_wp_0,Val0 : actual stop sign,5.74,,timeseries/2025-07-28 03:37:26.csv,scenario_imgs/2025-07-28 03:37:26.png
+2025-07-28 03:37:41,tfpp_wp_0,Val3 : actual stop sign,5.58,,timeseries/2025-07-28 03:37:41.csv,scenario_imgs/2025-07-28 03:37:41.png
+2025-07-28 03:40:34,tfpp_wp_0,Val0 : no pedestrians,5.74,,timeseries/2025-07-28 03:40:34.csv,scenario_imgs/2025-07-28 03:40:34.png
+2025-07-28 03:41:10,tfpp_wp_0,Val3 : no pedestrians,4.23,,timeseries/2025-07-28 03:41:10.csv,scenario_imgs/2025-07-28 03:41:10.png
+2025-07-28 03:41:44,tfpp_wp_0,Val0 : benign y=4,5.71,,timeseries/2025-07-28 03:41:44.csv,scenario_imgs/2025-07-28 03:41:44.png
+2025-07-28 03:41:58,tfpp_wp_0,Val0 : disguise y=4,5.77,,timeseries/2025-07-28 03:41:58.csv,scenario_imgs/2025-07-28 03:41:58.png
+2025-07-28 03:42:13,tfpp_wp_0,Val0 : adv y=4,5.73,,timeseries/2025-07-28 03:42:13.csv,scenario_imgs/2025-07-28 03:42:13.png
+2025-07-28 03:42:28,tfpp_wp_0,Val3 : benign y=4,3.65,,timeseries/2025-07-28 03:42:28.csv,scenario_imgs/2025-07-28 03:42:28.png
+2025-07-28 03:43:38,tfpp_wp_0,Val3 : disguise y=4,3.73,,timeseries/2025-07-28 03:43:38.csv,scenario_imgs/2025-07-28 03:43:38.png
+2025-07-28 03:43:54,tfpp_wp_0,Val3 : adv y=4,3.61,,timeseries/2025-07-28 03:43:54.csv,scenario_imgs/2025-07-28 03:43:54.png
+2025-07-28 03:48:04,tfpp_wp_0,Val0 : actual stop sign,5.72,,timeseries/2025-07-28 03:48:04.csv,scenario_imgs/2025-07-28 03:48:04.png
+2025-07-28 03:48:20,tfpp_wp_0,Val3 : actual stop sign,5.58,,timeseries/2025-07-28 03:48:20.csv,scenario_imgs/2025-07-28 03:48:20.png
+2025-07-28 03:49:52,tfpp_wp_0,Val0 : no pedestrians,5.74,,timeseries/2025-07-28 03:49:52.csv,scenario_imgs/2025-07-28 03:49:52.png
+2025-07-28 03:56:23,tfpp_wp_0,Val3 : no pedestrians,5.52,,timeseries/2025-07-28 03:56:23.csv,scenario_imgs/2025-07-28 03:56:23.png
+2025-07-28 03:56:38,tfpp_wp_0,Val0 : benign y=4,5.74,,timeseries/2025-07-28 03:56:38.csv,scenario_imgs/2025-07-28 03:56:38.png
+2025-07-28 03:56:53,tfpp_wp_0,Val0 : disguise y=4,5.75,,timeseries/2025-07-28 03:56:53.csv,scenario_imgs/2025-07-28 03:56:53.png
+2025-07-28 03:57:28,tfpp_wp_0,Val0 : adv y=4,5.74,,timeseries/2025-07-28 03:57:28.csv,scenario_imgs/2025-07-28 03:57:28.png
+2025-07-28 03:58:03,tfpp_wp_0,Val3 : benign y=4,3.01,,timeseries/2025-07-28 03:58:03.csv,scenario_imgs/2025-07-28 03:58:03.png
+2025-07-28 03:58:19,tfpp_wp_0,Val3 : disguise y=4,3.87,,timeseries/2025-07-28 03:58:19.csv,scenario_imgs/2025-07-28 03:58:19.png
+2025-07-28 03:58:56,tfpp_wp_0,Val3 : adv y=4,3.80,,timeseries/2025-07-28 03:58:56.csv,scenario_imgs/2025-07-28 03:58:56.png
+2025-07-28 04:01:47,tfpp_wp_0,Val0 : actual stop sign,5.71,,timeseries/2025-07-28 04:01:47.csv,scenario_imgs/2025-07-28 04:01:47.png
+2025-07-28 04:04:00,tfpp_wp_0,Val3 : actual stop sign,5.65,,timeseries/2025-07-28 04:04:00.csv,scenario_imgs/2025-07-28 04:04:00.png
+2025-07-28 04:23:48,tfpp_wp_0,Val0 : no pedestrians,5.74,,timeseries/2025-07-28 04:23:48.csv,scenario_imgs/2025-07-28 04:23:48.png
+2025-07-28 04:26:23,tfpp_wp_0,Val3 : no pedestrians,5.46,,timeseries/2025-07-28 04:26:23.csv,scenario_imgs/2025-07-28 04:26:23.png
+2025-07-28 04:26:37,tfpp_wp_0,Val0 : benign y=4,5.74,,timeseries/2025-07-28 04:26:37.csv,scenario_imgs/2025-07-28 04:26:37.png
+2025-07-28 04:27:12,tfpp_wp_0,Val0 : disguise y=4,5.74,,timeseries/2025-07-28 04:27:12.csv,scenario_imgs/2025-07-28 04:27:12.png
+2025-07-28 04:27:27,tfpp_wp_0,Val0 : adv y=4,5.74,,timeseries/2025-07-28 04:27:27.csv,scenario_imgs/2025-07-28 04:27:27.png
+2025-07-28 04:28:02,tfpp_wp_0,Val3 : benign y=4,3.22,,timeseries/2025-07-28 04:28:02.csv,scenario_imgs/2025-07-28 04:28:02.png
+2025-07-28 04:29:24,tfpp_wp_0,Val3 : disguise y=4,3.83,,timeseries/2025-07-28 04:29:24.csv,scenario_imgs/2025-07-28 04:29:24.png
+2025-07-28 04:29:39,tfpp_wp_0,Val3 : adv y=4,3.63,,timeseries/2025-07-28 04:29:39.csv,scenario_imgs/2025-07-28 04:29:39.png
+2025-07-28 04:32:16,tfpp_wp_0,Val0 : actual stop sign,5.66,,timeseries/2025-07-28 04:32:16.csv,scenario_imgs/2025-07-28 04:32:16.png
+2025-07-28 04:33:50,tfpp_wp_0,Val3 : actual stop sign,5.62,,timeseries/2025-07-28 04:33:50.csv,scenario_imgs/2025-07-28 04:33:50.png
+2025-07-28 04:38:31,tfpp_wp_0,Val0 : no pedestrians,5.72,,timeseries/2025-07-28 04:38:31.csv,scenario_imgs/2025-07-28 04:38:31.png
+2025-07-28 04:39:27,tfpp_wp_0,Val3 : no pedestrians,5.60,,timeseries/2025-07-28 04:39:27.csv,scenario_imgs/2025-07-28 04:39:27.png
+2025-07-28 04:40:19,tfpp_wp_0,Val0 : benign y=4,5.74,,timeseries/2025-07-28 04:40:19.csv,scenario_imgs/2025-07-28 04:40:19.png
+2025-07-28 04:40:53,tfpp_wp_0,Val0 : disguise y=4,5.75,,timeseries/2025-07-28 04:40:53.csv,scenario_imgs/2025-07-28 04:40:53.png
+2025-07-28 04:41:27,tfpp_wp_0,Val0 : adv y=4,5.74,,timeseries/2025-07-28 04:41:27.csv,scenario_imgs/2025-07-28 04:41:27.png
+2025-07-28 04:41:43,tfpp_wp_0,Val3 : benign y=4,3.09,,timeseries/2025-07-28 04:41:43.csv,scenario_imgs/2025-07-28 04:41:43.png
+2025-07-28 04:43:19,tfpp_wp_0,Val3 : disguise y=4,3.86,,timeseries/2025-07-28 04:43:19.csv,scenario_imgs/2025-07-28 04:43:19.png
+2025-07-28 04:43:35,tfpp_wp_0,Val3 : adv y=4,2.78,,timeseries/2025-07-28 04:43:35.csv,scenario_imgs/2025-07-28 04:43:35.png
+2025-07-28 04:43:53,neat_neat,Val0 : actual stop sign,5.05,,timeseries/2025-07-28 04:43:53.csv,scenario_imgs/2025-07-28 04:43:53.png
+2025-07-28 04:45:00,neat_neat,Val3 : actual stop sign,5.47,,timeseries/2025-07-28 04:45:00.csv,scenario_imgs/2025-07-28 04:45:00.png
+2025-07-28 04:45:19,neat_neat,Val0 : no pedestrians,4.99,,timeseries/2025-07-28 04:45:19.csv,scenario_imgs/2025-07-28 04:45:19.png
+2025-07-28 04:48:11,neat_neat,Val3 : no pedestrians,5.46,,timeseries/2025-07-28 04:48:11.csv,scenario_imgs/2025-07-28 04:48:11.png
+2025-07-28 04:48:54,neat_neat,Val0 : benign y=4,4.39,,timeseries/2025-07-28 04:48:54.csv,scenario_imgs/2025-07-28 04:48:54.png
+2025-07-28 04:49:12,neat_neat,Val0 : disguise y=4,3.91,,timeseries/2025-07-28 04:49:12.csv,scenario_imgs/2025-07-28 04:49:12.png
+2025-07-28 04:49:30,neat_neat,Val0 : adv y=4,4.34,,timeseries/2025-07-28 04:49:30.csv,scenario_imgs/2025-07-28 04:49:30.png
+2025-07-28 04:49:50,neat_neat,Val3 : benign y=4,5.48,,timeseries/2025-07-28 04:49:50.csv,scenario_imgs/2025-07-28 04:49:50.png
+2025-07-28 04:50:09,neat_neat,Val3 : disguise y=4,5.49,,timeseries/2025-07-28 04:50:09.csv,scenario_imgs/2025-07-28 04:50:09.png
+2025-07-28 04:50:27,neat_neat,Val3 : adv y=4,5.51,,timeseries/2025-07-28 04:50:27.csv,scenario_imgs/2025-07-28 04:50:27.png
+2025-07-28 04:51:25,neat_neat,Val0 : actual stop sign,4.71,,timeseries/2025-07-28 04:51:25.csv,scenario_imgs/2025-07-28 04:51:25.png
+2025-07-28 04:51:44,neat_neat,Val3 : actual stop sign,5.43,,timeseries/2025-07-28 04:51:44.csv,scenario_imgs/2025-07-28 04:51:44.png
+2025-07-28 04:52:02,neat_neat,Val0 : no pedestrians,5.07,,timeseries/2025-07-28 04:52:02.csv,scenario_imgs/2025-07-28 04:52:02.png
+2025-07-28 04:53:03,neat_neat,Val3 : no pedestrians,5.49,,timeseries/2025-07-28 04:53:03.csv,scenario_imgs/2025-07-28 04:53:03.png
+2025-07-28 04:53:39,neat_neat,Val0 : benign y=4,4.84,,timeseries/2025-07-28 04:53:39.csv,scenario_imgs/2025-07-28 04:53:39.png
+2025-07-28 04:54:16,neat_neat,Val0 : disguise y=4,3.77,,timeseries/2025-07-28 04:54:16.csv,scenario_imgs/2025-07-28 04:54:16.png
+2025-07-28 04:54:35,neat_neat,Val0 : adv y=4,4.47,,timeseries/2025-07-28 04:54:35.csv,scenario_imgs/2025-07-28 04:54:35.png
+2025-07-28 04:54:53,neat_neat,Val3 : benign y=4,5.50,,timeseries/2025-07-28 04:54:53.csv,scenario_imgs/2025-07-28 04:54:53.png
+2025-07-28 04:55:13,neat_neat,Val3 : disguise y=4,5.48,,timeseries/2025-07-28 04:55:13.csv,scenario_imgs/2025-07-28 04:55:13.png
+2025-07-28 04:55:32,neat_neat,Val3 : adv y=4,5.51,,timeseries/2025-07-28 04:55:32.csv,scenario_imgs/2025-07-28 04:55:32.png
+2025-07-28 04:55:51,neat_neat,Val0 : actual stop sign,4.98,,timeseries/2025-07-28 04:55:51.csv,scenario_imgs/2025-07-28 04:55:51.png
+2025-07-28 04:56:29,neat_neat,Val3 : actual stop sign,5.47,,timeseries/2025-07-28 04:56:29.csv,scenario_imgs/2025-07-28 04:56:29.png
+2025-07-28 04:56:47,neat_neat,Val0 : no pedestrians,5.16,,timeseries/2025-07-28 04:56:47.csv,scenario_imgs/2025-07-28 04:56:47.png
+2025-07-28 04:57:06,neat_neat,Val3 : no pedestrians,5.47,,timeseries/2025-07-28 04:57:06.csv,scenario_imgs/2025-07-28 04:57:06.png
+2025-07-28 04:57:25,neat_neat,Val0 : benign y=4,4.83,,timeseries/2025-07-28 04:57:25.csv,scenario_imgs/2025-07-28 04:57:25.png
+2025-07-28 04:58:09,neat_neat,Val0 : disguise y=4,3.91,,timeseries/2025-07-28 04:58:09.csv,scenario_imgs/2025-07-28 04:58:09.png
+2025-07-28 04:59:13,neat_neat,Val0 : adv y=4,4.31,,timeseries/2025-07-28 04:59:13.csv,scenario_imgs/2025-07-28 04:59:13.png
+2025-07-28 04:59:32,neat_neat,Val3 : benign y=4,5.51,,timeseries/2025-07-28 04:59:32.csv,scenario_imgs/2025-07-28 04:59:32.png
+2025-07-28 04:59:52,neat_neat,Val3 : disguise y=4,5.48,,timeseries/2025-07-28 04:59:52.csv,scenario_imgs/2025-07-28 04:59:52.png
+2025-07-28 05:00:11,neat_neat,Val3 : adv y=4,5.49,,timeseries/2025-07-28 05:00:11.csv,scenario_imgs/2025-07-28 05:00:11.png
+2025-07-28 05:00:29,neat_neat,Val0 : actual stop sign,4.96,,timeseries/2025-07-28 05:00:29.csv,scenario_imgs/2025-07-28 05:00:29.png
+2025-07-28 05:02:20,neat_neat,Val3 : actual stop sign,5.47,,timeseries/2025-07-28 05:02:20.csv,scenario_imgs/2025-07-28 05:02:20.png
+2025-07-28 05:02:39,neat_neat,Val0 : no pedestrians,5.11,,timeseries/2025-07-28 05:02:39.csv,scenario_imgs/2025-07-28 05:02:39.png
+2025-07-28 05:03:17,neat_neat,Val3 : no pedestrians,5.47,,timeseries/2025-07-28 05:03:17.csv,scenario_imgs/2025-07-28 05:03:17.png
+2025-07-28 05:03:37,neat_neat,Val0 : benign y=4,4.79,,timeseries/2025-07-28 05:03:37.csv,scenario_imgs/2025-07-28 05:03:37.png
+2025-07-28 05:04:16,neat_neat,Val0 : disguise y=4,2.77,,timeseries/2025-07-28 05:04:16.csv,scenario_imgs/2025-07-28 05:04:16.png
+2025-07-28 05:04:33,neat_neat,Val0 : adv y=4,4.52,,timeseries/2025-07-28 05:04:33.csv,scenario_imgs/2025-07-28 05:04:33.png
+2025-07-28 05:04:52,neat_neat,Val3 : benign y=4,5.49,,timeseries/2025-07-28 05:04:52.csv,scenario_imgs/2025-07-28 05:04:52.png
+2025-07-28 05:05:12,neat_neat,Val3 : disguise y=4,5.49,,timeseries/2025-07-28 05:05:12.csv,scenario_imgs/2025-07-28 05:05:12.png
+2025-07-28 05:05:32,neat_neat,Val3 : adv y=4,5.47,,timeseries/2025-07-28 05:05:32.csv,scenario_imgs/2025-07-28 05:05:32.png
+2025-07-28 05:06:54,neat_neat,Val0 : actual stop sign,4.97,,timeseries/2025-07-28 05:06:54.csv,scenario_imgs/2025-07-28 05:06:54.png
+2025-07-28 05:09:10,neat_neat,Val3 : actual stop sign,5.40,,timeseries/2025-07-28 05:09:10.csv,scenario_imgs/2025-07-28 05:09:10.png
+2025-07-28 05:10:49,neat_neat,Val0 : no pedestrians,5.03,,timeseries/2025-07-28 05:10:49.csv,scenario_imgs/2025-07-28 05:10:49.png
+2025-07-28 05:11:30,neat_neat,Val3 : no pedestrians,5.45,,timeseries/2025-07-28 05:11:30.csv,scenario_imgs/2025-07-28 05:11:30.png
+2025-07-28 05:11:48,neat_neat,Val0 : benign y=4,3.98,,timeseries/2025-07-28 05:11:48.csv,scenario_imgs/2025-07-28 05:11:48.png
+2025-07-28 05:12:05,neat_neat,Val0 : disguise y=4,2.63,,timeseries/2025-07-28 05:12:05.csv,scenario_imgs/2025-07-28 05:12:05.png
+2025-07-28 05:12:23,neat_neat,Val0 : adv y=4,4.54,,timeseries/2025-07-28 05:12:23.csv,scenario_imgs/2025-07-28 05:12:23.png
+2025-07-28 05:13:55,neat_neat,Val3 : benign y=4,5.50,,timeseries/2025-07-28 05:13:55.csv,scenario_imgs/2025-07-28 05:13:55.png
+2025-07-28 05:14:14,neat_neat,Val3 : disguise y=4,5.49,,timeseries/2025-07-28 05:14:14.csv,scenario_imgs/2025-07-28 05:14:14.png
+2025-07-28 05:14:33,neat_neat,Val3 : adv y=4,5.50,,timeseries/2025-07-28 05:14:33.csv,scenario_imgs/2025-07-28 05:14:33.png
+2025-07-28 05:15:12,neat_neat,Val0 : actual stop sign,4.89,,timeseries/2025-07-28 05:15:12.csv,scenario_imgs/2025-07-28 05:15:12.png
+2025-07-28 05:18:19,neat_neat,Val3 : actual stop sign,5.43,,timeseries/2025-07-28 05:18:19.csv,scenario_imgs/2025-07-28 05:18:19.png
+2025-07-28 05:18:56,neat_neat,Val0 : no pedestrians,4.99,,timeseries/2025-07-28 05:18:56.csv,scenario_imgs/2025-07-28 05:18:56.png
+2025-07-28 05:22:12,neat_neat,Val3 : no pedestrians,5.48,,timeseries/2025-07-28 05:22:12.csv,scenario_imgs/2025-07-28 05:22:12.png
+2025-07-28 05:22:48,neat_neat,Val0 : benign y=4,4.81,,timeseries/2025-07-28 05:22:48.csv,scenario_imgs/2025-07-28 05:22:48.png
+2025-07-28 05:23:06,neat_neat,Val0 : disguise y=4,2.62,,timeseries/2025-07-28 05:23:06.csv,scenario_imgs/2025-07-28 05:23:06.png
+2025-07-28 05:23:23,neat_neat,Val0 : adv y=4,4.42,,timeseries/2025-07-28 05:23:23.csv,scenario_imgs/2025-07-28 05:23:23.png
+2025-07-28 05:23:43,neat_neat,Val3 : benign y=4,5.47,,timeseries/2025-07-28 05:23:43.csv,scenario_imgs/2025-07-28 05:23:43.png
+2025-07-28 05:24:25,neat_neat,Val3 : disguise y=4,5.50,,timeseries/2025-07-28 05:24:25.csv,scenario_imgs/2025-07-28 05:24:25.png
+2025-07-28 05:25:31,neat_neat,Val3 : adv y=4,5.49,,timeseries/2025-07-28 05:25:31.csv,scenario_imgs/2025-07-28 05:25:31.png
+2025-07-28 05:27:43,neat_neat,Val0 : actual stop sign,4.88,,timeseries/2025-07-28 05:27:43.csv,scenario_imgs/2025-07-28 05:27:43.png
+2025-07-28 05:28:42,neat_neat,Val3 : actual stop sign,5.46,,timeseries/2025-07-28 05:28:42.csv,scenario_imgs/2025-07-28 05:28:42.png
+2025-07-28 05:30:13,neat_neat,Val0 : no pedestrians,5.15,,timeseries/2025-07-28 05:30:13.csv,scenario_imgs/2025-07-28 05:30:13.png
+2025-07-28 05:32:42,neat_neat,Val3 : no pedestrians,5.48,,timeseries/2025-07-28 05:32:42.csv,scenario_imgs/2025-07-28 05:32:42.png
+2025-07-28 05:33:00,neat_neat,Val0 : benign y=4,4.42,,timeseries/2025-07-28 05:33:00.csv,scenario_imgs/2025-07-28 05:33:00.png
+2025-07-28 05:33:20,neat_neat,Val0 : disguise y=4,2.68,,timeseries/2025-07-28 05:33:20.csv,scenario_imgs/2025-07-28 05:33:20.png
+2025-07-28 05:33:38,neat_neat,Val0 : adv y=4,4.32,,timeseries/2025-07-28 05:33:38.csv,scenario_imgs/2025-07-28 05:33:38.png
+2025-07-28 05:33:57,neat_neat,Val3 : benign y=4,5.46,,timeseries/2025-07-28 05:33:57.csv,scenario_imgs/2025-07-28 05:33:57.png
+2025-07-28 05:34:16,neat_neat,Val3 : disguise y=4,5.49,,timeseries/2025-07-28 05:34:16.csv,scenario_imgs/2025-07-28 05:34:16.png
+2025-07-28 05:34:35,neat_neat,Val3 : adv y=4,5.48,,timeseries/2025-07-28 05:34:35.csv,scenario_imgs/2025-07-28 05:34:35.png
+2025-07-28 05:34:54,neat_neat,Val0 : actual stop sign,5.02,,timeseries/2025-07-28 05:34:54.csv,scenario_imgs/2025-07-28 05:34:54.png
+2025-07-28 05:35:34,neat_neat,Val3 : actual stop sign,5.47,,timeseries/2025-07-28 05:35:34.csv,scenario_imgs/2025-07-28 05:35:34.png
+2025-07-28 05:36:43,neat_neat,Val0 : no pedestrians,5.00,,timeseries/2025-07-28 05:36:43.csv,scenario_imgs/2025-07-28 05:36:43.png
+2025-07-28 05:37:49,neat_neat,Val3 : no pedestrians,5.45,,timeseries/2025-07-28 05:37:49.csv,scenario_imgs/2025-07-28 05:37:49.png
+2025-07-28 05:38:35,neat_neat,Val0 : benign y=4,4.82,,timeseries/2025-07-28 05:38:35.csv,scenario_imgs/2025-07-28 05:38:35.png
+2025-07-28 05:38:54,neat_neat,Val0 : disguise y=4,3.49,,timeseries/2025-07-28 05:38:54.csv,scenario_imgs/2025-07-28 05:38:54.png
+2025-07-28 05:39:15,neat_neat,Val0 : adv y=4,4.37,,timeseries/2025-07-28 05:39:15.csv,scenario_imgs/2025-07-28 05:39:15.png
+2025-07-28 05:39:33,neat_neat,Val3 : benign y=4,5.45,,timeseries/2025-07-28 05:39:33.csv,scenario_imgs/2025-07-28 05:39:33.png
+2025-07-28 05:40:20,neat_neat,Val3 : disguise y=4,5.48,,timeseries/2025-07-28 05:40:20.csv,scenario_imgs/2025-07-28 05:40:20.png
+2025-07-28 05:40:39,neat_neat,Val3 : adv y=4,5.48,,timeseries/2025-07-28 05:40:39.csv,scenario_imgs/2025-07-28 05:40:39.png
+2025-07-28 05:40:57,neat_neat,Val0 : actual stop sign,4.95,,timeseries/2025-07-28 05:40:57.csv,scenario_imgs/2025-07-28 05:40:57.png
+2025-07-28 05:42:23,neat_neat,Val3 : actual stop sign,5.49,,timeseries/2025-07-28 05:42:23.csv,scenario_imgs/2025-07-28 05:42:23.png
+2025-07-28 05:43:19,neat_neat,Val0 : no pedestrians,4.93,,timeseries/2025-07-28 05:43:19.csv,scenario_imgs/2025-07-28 05:43:19.png
+2025-07-28 05:43:39,neat_neat,Val3 : no pedestrians,5.45,,timeseries/2025-07-28 05:43:39.csv,scenario_imgs/2025-07-28 05:43:39.png
+2025-07-28 05:44:49,neat_neat,Val0 : benign y=4,4.79,,timeseries/2025-07-28 05:44:49.csv,scenario_imgs/2025-07-28 05:44:49.png
+2025-07-28 05:45:07,neat_neat,Val0 : disguise y=4,3.78,,timeseries/2025-07-28 05:45:07.csv,scenario_imgs/2025-07-28 05:45:07.png
+2025-07-28 05:45:25,neat_neat,Val0 : adv y=4,4.36,,timeseries/2025-07-28 05:45:25.csv,scenario_imgs/2025-07-28 05:45:25.png
+2025-07-28 05:46:10,neat_neat,Val3 : benign y=4,5.48,,timeseries/2025-07-28 05:46:10.csv,scenario_imgs/2025-07-28 05:46:10.png
+2025-07-28 05:46:31,neat_neat,Val3 : disguise y=4,5.45,,timeseries/2025-07-28 05:46:31.csv,scenario_imgs/2025-07-28 05:46:31.png
+2025-07-28 05:47:08,neat_neat,Val3 : adv y=4,5.49,,timeseries/2025-07-28 05:47:08.csv,scenario_imgs/2025-07-28 05:47:08.png
+2025-07-28 05:48:27,neat_neat,Val0 : actual stop sign,4.81,,timeseries/2025-07-28 05:48:27.csv,scenario_imgs/2025-07-28 05:48:27.png
+2025-07-28 05:48:46,neat_neat,Val3 : actual stop sign,5.48,,timeseries/2025-07-28 05:48:46.csv,scenario_imgs/2025-07-28 05:48:46.png
+2025-07-28 05:49:03,neat_neat,Val0 : no pedestrians,5.04,,timeseries/2025-07-28 05:49:03.csv,scenario_imgs/2025-07-28 05:49:03.png
+2025-07-28 05:49:22,neat_neat,Val3 : no pedestrians,5.46,,timeseries/2025-07-28 05:49:22.csv,scenario_imgs/2025-07-28 05:49:22.png
+2025-07-28 05:49:40,neat_neat,Val0 : benign y=4,4.42,,timeseries/2025-07-28 05:49:40.csv,scenario_imgs/2025-07-28 05:49:40.png
+2025-07-28 05:49:58,neat_neat,Val0 : disguise y=4,3.78,,timeseries/2025-07-28 05:49:58.csv,scenario_imgs/2025-07-28 05:49:58.png
+2025-07-28 05:50:38,neat_neat,Val0 : adv y=4,4.44,,timeseries/2025-07-28 05:50:38.csv,scenario_imgs/2025-07-28 05:50:38.png
+2025-07-28 05:50:56,neat_neat,Val3 : benign y=4,5.49,,timeseries/2025-07-28 05:50:56.csv,scenario_imgs/2025-07-28 05:50:56.png
+2025-07-28 05:51:16,neat_neat,Val3 : disguise y=4,5.49,,timeseries/2025-07-28 05:51:16.csv,scenario_imgs/2025-07-28 05:51:16.png
+2025-07-28 05:51:36,neat_neat,Val3 : adv y=4,5.48,,timeseries/2025-07-28 05:51:36.csv,scenario_imgs/2025-07-28 05:51:36.png

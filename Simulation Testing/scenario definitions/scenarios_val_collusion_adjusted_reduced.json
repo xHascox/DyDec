@@ -1,0 +1,982 @@
+{
+    "scenarios": [
+        {
+            "world": "Town02_stop",
+            "description": "Val0 : actual stop sign",
+            "num_pedestrians": 0,
+            "alt": "7-11 instead of 67 - 4",
+            "vehicle_spawnpoint": 67,
+            "vehicle_route": [67, 4],
+            "change_weather": "ClearNoon_90",
+            "pedestrian_ids": [
+                "adv",
+                "stop"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 6,
+                    "y": 3.5,
+                    "z": 2.0
+                },
+                {
+                    "x": 6,
+                    "y": 4.5,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07_stop",
+            "description": "Val3 : actual stop sign",
+            "num_pedestrians": 0,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "change_weather": "Town07",
+            "pedestrian_ids": [
+                "stop",
+                "stop"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 9,
+                    "y": 6,
+                    "z": 2.0
+                },
+                {
+                    "x": 9,
+                    "y": 7,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town02",
+            "description": "Val0 : no pedestrians",
+            "num_pedestrians": 0,
+            "vehicle_spawnpoint": 67,
+            "vehicle_route": [67, 4],
+            "change_weather": "Town02_stop",
+            "pedestrian_ids": [
+                "adv",
+                "stop"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 6,
+                    "y": 3.5,
+                    "z": 2.0
+                },
+                {
+                    "x": 6,
+                    "y": 4.5,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : no pedestrians",
+            "num_pedestrians": 0,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "stop",
+                "stop"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 9,
+                    "y": 6,
+                    "z": 2.0
+                },
+                {
+                    "x": 9,
+                    "y": 7,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town02",
+            "description": "Val0 : benign y=4",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 67,
+            "vehicle_route": [67, 4],
+            "change_weather": "Town02_stop",
+            "pedestrian_ids": [
+                "benign",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4.6,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town02",
+            "description": "Val0 : benign y=3",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 67,
+            "vehicle_route": [67, 4],
+            "change_weather": "Town02_stop",
+            "pedestrian_ids": [
+                "benign",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 3.3,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town02",
+            "description": "Val0 : disguise y=4",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 67,
+            "vehicle_route": [67, 4],
+            "change_weather": "Town02_stop",
+            "pedestrian_ids": [
+                "disguise",
+                "disguise"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 11,
+                    "y": 4,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4.6,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town02",
+            "description": "Val0 : disguise y=3",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 67,
+            "vehicle_route": [67, 4],
+            "change_weather": "Town02_stop",
+            "pedestrian_ids": [
+                "disguise",
+                "disguise"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 3.3,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town02",
+            "description": "Val0 : left y=4",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 67,
+            "vehicle_route": [67, 4],
+            "change_weather": "Town02_stop",
+            "pedestrian_ids": [
+                "adv_left",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4.6,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town02",
+            "description": "Val0 : left y=3",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 67,
+            "vehicle_route": [67, 4],
+            "change_weather": "Town02_stop",
+            "pedestrian_ids": [
+                "adv_left",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 3.3,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town02",
+            "description": "Val0 : right y=4",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 67,
+            "vehicle_route": [67, 4],
+            "change_weather": "Town02_stop",
+            "pedestrian_ids": [
+                "adv_right",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4.6,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town02",
+            "description": "Val0 : right y=3",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 67,
+            "vehicle_route": [67, 4],
+            "change_weather": "Town02_stop",
+            "pedestrian_ids": [
+                "adv_right",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 3.3,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town02",
+            "description": "Val0 : adv y=4",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 67,
+            "vehicle_route": [67, 4],
+            "change_weather": "Town02_stop",
+            "pedestrian_ids": [
+                "adv_left",
+                "adv_right"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4.6,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town02",
+            "description": "Val0 : adv y=3",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 67,
+            "vehicle_route": [67, 4],
+            "change_weather": "Town02_stop",
+            "pedestrian_ids": [
+                "adv_left",
+                "adv_right"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 3.3,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+
+
+
+        
+        
+        {
+            "world": "Town07",
+            "description": "Val3 : benign y=2",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "benign",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 2,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 3,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : benign y=3",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "benign",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 3,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : benign y=4",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "benign",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 5,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : disguise y=2",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "disguise",
+                "disguise"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 2,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 3,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : disguise y=3",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "disguise",
+                "disguise"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 3,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : disguise y=4",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "disguise",
+                "disguise"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 5,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : adv y=2",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "adv_left",
+                "adv_right"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 2,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 3,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : adv y=3",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "adv_left",
+                "adv_right"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 3,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : adv y=4",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "adv_left",
+                "adv_right"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 5,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : left y=2",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "adv_left",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 2,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 3,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : left y=3",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "adv_left",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 3,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : left y=4",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "adv_left",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 5,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : right y=2",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "adv_right",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 2,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 3,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : right y=3",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "adv_right",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 3,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town07",
+            "description": "Val3 : right y=4",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 26,
+            "vehicle_route": [26, 25],
+            "pedestrian_ids": [
+                "adv_right",
+                "benign"
+            ],
+            "pedestrian_positions": [
+                {
+                    "x": 12,
+                    "y": 4,
+                    "z": 2.0
+                },
+                {
+                    "x": 12,
+                    "y": 5,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed" : 2
+                }
+            ] 
+        }
+
+    ]
+    
+  }

@@ -1,0 +1,821 @@
+{
+    "scenarios": [
+        {
+            "world": "Town01",
+            "description": "1: OK - 2 pedestrians on left side walking towards each other",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 91,
+            "pedestrian_positions": [
+                {
+                    "x": 10,
+                    "y": -10.5,
+                    "z": 2.0
+                },
+                {
+                    "x": 15,
+                    "y": -8.5,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 180,
+                    "speed" : 2
+                }
+            ] 
+        },
+        {
+            "world": "Town01",
+            "description": "2: OK - 2 pedestrians on left side one overtaking the other away from vehicle",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 91,
+            "pedestrian_positions": [
+                {
+                    "x": 17,
+                    "y": -8,
+                    "z": 5.0
+                },
+                {
+                    "x": 12,
+                    "y": -7,
+                    "z": 5.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2
+                },
+                {
+                    "angle": 0,
+                    "speed": 4
+                }
+            ] 
+        },
+        {
+            "world": "Town01",
+            "description": "3: OK 2 pedestrians on left side",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 91,
+            "pedestrian_positions": [
+                {
+                    "x": 20,
+                    "y": -8.3,
+                    "z": 2.0
+                },
+                {
+                    "x": 25,
+                    "y": -7,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2.5
+                },
+                {
+                    "angle": 0,
+                    "speed": 0.8
+                }
+            ] 
+        },
+        {
+            "world": "Town01",
+            "description": "4: OK 2 pedestrians on left side",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 92,
+            "pedestrian_positions": [
+                {
+                    "x": 5,
+                    "y": -8,
+                    "z": 2.0
+                },
+                {
+                    "x": 10,
+                    "y": -7,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3
+                },
+                {
+                    "angle": 0,
+                    "speed": 1
+                }
+            ] 
+        },
+        {
+            "world": "Town01",
+            "description": "5: OK 2 pedestrians on right side",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 92,
+            "pedestrian_positions": [
+                {
+                    "x": 5,
+                    "y": 3,
+                    "z": 2.0
+                },
+                {
+                    "x": 10,
+                    "y": 4,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3
+                },
+                {
+                    "angle": 0,
+                    "speed": 1
+                }
+            ] 
+        },
+        {
+            "world": "Town01",
+            "description": "6: OK 2 pedestrians on left side",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 92,
+            "pedestrian_positions": [
+                {
+                    "x": 5,
+                    "y": 3,
+                    "z": 5.0
+                },
+                {
+                    "x": 2,
+                    "y": 4,
+                    "z": 5.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 1
+                },
+                {
+                    "angle": 0,
+                    "speed": 3
+                }
+            ] 
+        },
+        {
+            "world": "Town01",
+            "description": "7 OK - 2 pedestrians right side, traffic light right",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 121,
+            "pedestrian_positions": [
+                {
+                    "x": 3,
+                    "y": 3.3,
+                    "z": 1.0
+                },
+                {
+                    "x": 3,
+                    "y": 4,
+                    "z": 1.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3
+                },
+                {
+                    "angle": 0,
+                    "speed": 2.5
+                }
+            ] 
+        },
+        {
+            "world": "Town01",
+            "description": "8 OK - 2 pedestrians close, traffic light right, 30 sign right",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 120,
+            "pedestrian_positions": [
+                {
+                    "x": 6,
+                    "y": 3,
+                    "z": 2.0
+                },
+                {
+                    "x": 7.5,
+                    "y": 4,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 1.6
+                },
+                {
+                    "angle": 0,
+                    "speed": 1.4
+                }
+            ] 
+        },
+        
+        {
+            "world": "Town04",
+            "description": "9 OK - 2 pedestrians right",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 274,
+            "pedestrian_positions": [
+                {
+                    "x": 0,
+                    "y": 2.8,
+                    "z": 1.0
+                },
+                {
+                    "x": 4,
+                    "y": 3.5,
+                    "z": 1.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3
+                },
+                {
+                    "angle": 0,
+                    "speed": 2
+                }
+            ] 
+                   
+        },
+        {
+            "world": "Town01",
+            "description": "10 OK - 2 pedestrians right",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 31,
+            "pedestrian_positions": [
+                {
+                    "x": 3,
+                    "y": 4,
+                    "z": 2.0
+                },
+                {
+                    "x": 0,
+                    "y": 3,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3.5
+                },
+                {
+                    "angle": 0,
+                    "speed": 4
+                }
+            ] 
+                
+                
+        },
+
+        {
+            "world": "Town02",
+            "description": "11 OK - 2 pedestrians right small gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 31,
+            "pedestrian_positions": [
+                {
+                    "x": 2,
+                    "y": 4,
+                    "z": 2.0
+                },
+                {
+                    "x": 0,
+                    "y": 3,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3.7
+                },
+                {
+                    "angle": 0,
+                    "speed": 4
+                }
+            ] 
+                
+                
+        },
+
+        {
+            "world": "Town02",
+            "description": "12 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 31,
+            "pedestrian_positions": [
+                {
+                    "x": 0,
+                    "y": 5,
+                    "z": 2.0
+                },
+                {
+                    "x": -2,
+                    "y": 3,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3.7
+                },
+                {
+                    "angle": 0,
+                    "speed": 4
+                }
+            ] 
+                
+                
+        },
+
+        {
+            "world": "Town02",
+            "description": "13 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 9,
+            "pedestrian_positions": [
+                {
+                    "x": 3,
+                    "y": -7,
+                    "z": 2.0
+                },
+                {
+                    "x": 3,
+                    "y": -6,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3.7
+                },
+                {
+                    "angle": 0,
+                    "speed": 4
+                }
+            ] 
+                
+                
+        },
+
+        {
+            "world": "Town02",
+            "description": "14 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 93,
+            "pedestrian_positions": [
+                {
+                    "x": 0,
+                    "y": 4.2,
+                    "z": 2.0
+                },
+                {
+                    "x": -2,
+                    "y": 3,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2.7
+                },
+                {
+                    "angle": 0,
+                    "speed": 3.1
+                }
+            ] 
+                
+                
+        },
+
+        {
+            "world": "Town03",
+            "description": "15 OK - 2 pedestrians left small gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 91,
+            "pedestrian_positions": [
+                {
+                    "x": 0,
+                    "y": -4.2,
+                    "z": 2.0
+                },
+                {
+                    "x": -2,
+                    "y": -3,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2.7
+                },
+                {
+                    "angle": 0,
+                    "speed": 3
+                }
+            ]     
+        },
+
+        {
+            "world": "Town03",
+            "description": "16 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 55,
+            "pedestrian_positions": [
+                {
+                    "x": 4,
+                    "y": 6.5,
+                    "z": 2.0
+                },
+                {
+                    "x": 2,
+                    "y": 5.5,
+                    "z": 2.0
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2.7
+                },
+                {
+                    "angle": 0,
+                    "speed": 3.1
+                }
+            ]     
+        },
+
+        {
+            "world": "Town03",
+            "description": "17 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 218,
+            "pedestrian_positions": [
+                {
+                    "x": 1,
+                    "y": 5.3,
+                    "z": 2.5
+                },
+                {
+                    "x": -0.5,
+                    "y": 4.2,
+                    "z": 2.5
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2.7
+                },
+                {
+                    "angle": 0,
+                    "speed": 3.1
+                }
+            ]     
+        },
+
+        {
+            "world": "Town04",
+            "description": "18 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 341,
+            "pedestrian_positions": [
+                {
+                    "x": 1.5,
+                    "y": 3.7,
+                    "z": 2.5
+                },
+                {
+                    "x": 1,
+                    "y": 3.8,
+                    "z": 2.5
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2.8
+                },
+                {
+                    "angle": 0,
+                    "speed": 2.9
+                }
+            ]     
+        },
+
+        {
+            "world": "Town04",
+            "description": "19 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 48,
+            "pedestrian_positions": [
+                {
+                    "x": 1,
+                    "y": 5.3,
+                    "z": 2.5
+                },
+                {
+                    "x": -0.5,
+                    "y": 4.2,
+                    "z": 2.5
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2.7
+                },
+                {
+                    "angle": 0,
+                    "speed": 3.1
+                }
+            ]     
+        },
+
+        {
+            "world": "Town04",
+            "description": "20 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 249,
+            "pedestrian_positions": [
+                {
+                    "x": 6,
+                    "y": 5.1,
+                    "z": 2.5
+                },
+                {
+                    "x": 5,
+                    "y": 4.2,
+                    "z": 2.5
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 2.8
+                },
+                {
+                    "angle": 0,
+                    "speed": 3
+                }
+            ]     
+        },
+
+        {
+            "world": "Town04",
+            "description": "21 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 249,
+            "pedestrian_positions": [
+                {
+                    "x": 1,
+                    "y": -7.1,
+                    "z": 2.5
+                },
+                {
+                    "x": 5,
+                    "y": -6.2,
+                    "z": 2.5
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 4
+                },
+                {
+                    "angle": 0,
+                    "speed": 2.8
+                }
+            ]     
+        },
+
+        {
+            "world": "Town04",
+            "description": "22 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 311,
+            "pedestrian_positions": [
+                {
+                    "x": 0,
+                    "y": -6,
+                    "z": 2.5
+                },
+                {
+                    "x": 2,
+                    "y": -7,
+                    "z": 2.5
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3.5
+                },
+                {
+                    "angle": 0,
+                    "speed": 3
+                }
+            ]     
+        },
+
+        {
+            "world": "Town05",
+            "description": "23 OK - 2 pedestrians far left",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 150,
+            "pedestrian_positions": [
+                {
+                    "x": 4,
+                    "y": -10,
+                    "z": 2.5
+                },
+                {
+                    "x": 6,
+                    "y": -11,
+                    "z": 2.5
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3.5
+                },
+                {
+                    "angle": 0,
+                    "speed": 3
+                }
+            ]     
+        },
+
+        {
+            "world": "Town05",
+            "description": "24 OK - 2 pedestrians right",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 150,
+            "pedestrian_positions": [
+                {
+                    "x": 1,
+                    "y": 6.5,
+                    "z": 2.5
+                },
+                {
+                    "x": 6,
+                    "y": 7,
+                    "z": 2.5
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 4
+                },
+                {
+                    "angle": 0,
+                    "speed": 3
+                }
+            ]     
+        },
+
+        {
+            "world": "Town05",
+            "description": "25 OK - 2 pedestrians left small gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 74,
+            "pedestrian_positions": [
+                {
+                    "x": 3,
+                    "y": -10,
+                    "z": 2.5
+                },
+                {
+                    "x": 5,
+                    "y": -11,
+                    "z": 2.5
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3.3
+                },
+                {
+                    "angle": 0,
+                    "speed": 3
+                }
+            ]     
+        },
+
+        {
+            "world": "Town05",
+            "description": "26 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 110,
+            "pedestrian_positions": [
+                {
+                    "x": 0,
+                    "y": 2.3,
+                    "z": 2.5
+                },
+                {
+                    "x": 2,
+                    "y": 3.1,
+                    "z": 2.5
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3.5
+                },
+                {
+                    "angle": 0,
+                    "speed": 3
+                }
+            ]     
+        },
+
+        {
+            "world": "Town05",
+            "description": "27 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 42,
+            "pedestrian_positions": [
+                {
+                    "x": 0,
+                    "y": 7,
+                    "z": 2.5
+                },
+                {
+                    "x": 2,
+                    "y": 8,
+                    "z": 2.5
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3.5
+                },
+                {
+                    "angle": 0,
+                    "speed": 3
+                }
+            ]     
+        },
+
+        {
+            "world": "Town05",
+            "description": "28 OK - 2 pedestrians right medium gap",
+            "num_pedestrians": 2,
+            "vehicle_spawnpoint": 114,
+            "pedestrian_positions": [
+                {
+                    "x": 5,
+                    "y": 11,
+                    "z": 2.5
+                },
+                {
+                    "x": 7,
+                    "y": 10,
+                    "z": 2.5
+                }
+            ],
+            "pedestrian_direction": [
+                {
+                    "angle": 0,
+                    "speed": 3.5
+                },
+                {
+                    "angle": 0,
+                    "speed": 3
+                }
+            ]     
+        }
+    ]
+
+    
+    
+  }
