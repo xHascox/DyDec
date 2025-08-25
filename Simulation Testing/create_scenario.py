@@ -97,7 +97,10 @@ def create_scenario(args, town="Town02", vehicle_spawn_point=31, num_pedestrians
     pedestrian_walkers = []
     for pedestrian_i in range(num_pedestrians):
         walker = None
-        walkerBP = bpLibrary.filter(texture_to_id.get(pedestrian_ids[pedestrian_i]))[0] # 0002 # pedestrian_ids
+        if pedestrian_ids is None:
+            walkerBP = bpLibrary.filter(texture_to_id.get("benign"))[0] # 0002 # pedestrian_ids
+        else:
+            walkerBP = bpLibrary.filter(texture_to_id.get(pedestrian_ids[pedestrian_i], texture_to_id["benign"]))[0] # 0002 # pedestrian_ids
         walkerControllerBP = bpLibrary.find('controller.ai.walker')
         if not walkerBP:
             raise ValueError("Couldn't find any walkers with the specified filters")

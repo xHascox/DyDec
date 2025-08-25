@@ -11,6 +11,27 @@ DEBUG = False
 DATASET_PATH = "./dataset/dsv5/"
 os.makedirs(DATASET_PATH, exist_ok=True)
 
+if 'MACHINE_NAME' in os.environ:
+    MACHINE_NAME = os.environ['MACHINE_NAME']
+else:
+    MACHINE_NAME = "Vortex"  # TODO adjust accordingly
+    print(f"Using default MACHINE_NAME: {MACHINE_NAME}\nYou can set it in the environment variable MACHINE_NAME")
+
+if MACHINE_NAME == "hasco":
+    texture_to_id = {"stop": "walker.pedestrian.0045", 
+                    "adv": "walker.pedestrian.0015", 
+                    "disguise": "walker.pedestrian.0024",
+                    "benign": "walker.pedestrian.0002",
+                    "adv_left": "walker.pedestrian.0006",
+                    "adv_right": "walker.pedestrian.0001",}
+elif MACHINE_NAME == "Vortex":
+    texture_to_id = {"stop": "walker.pedestrian.0027", 
+                    "adv": "walker.pedestrian.0003", 
+                    "disguise": "walker.pedestrian.0046",
+                    "benign": "walker.pedestrian.0029",
+                    "adv_left": "walker.pedestrian.0038",
+                    "adv_right": "walker.pedestrian.0045",}
+
 # Load the JSON data from a file
 def load_pedestrian_data(file_path):
     try:
@@ -47,7 +68,6 @@ def main():
 
     file_path = "scenario definitions/dataset_scenarios.json"
     scenarios = load_pedestrian_data(file_path)
-
     SAVE_IMAGES = True # NOTE: Just for debugging, must be True to collect the dataset
 
     for scenario in scenarios["scenarios"]:
@@ -59,7 +79,7 @@ def main():
         pedestrian_direction = scenario["pedestrian_direction"] 
 
         try:
-            world, bpLibrary, vehicle, walkerControllers, walkers, camera = create_scenario.create_scenario(args, town=town, num_pedestrians=num_pedestrians, vehicle_spawn_point=vehicle_spawnpoint, pedestrian_positions=pedestrian_positions)
+            world, bpLibrary, vehicle, walkerControllers, walkers, camera = create_scenario.create_scenario(args, town=town, num_pedestrians=num_pedestrians, vehicle_spawn_point=vehicle_spawnpoint, pedestrian_positions=pedestrian_positions, texture_to_id=texture_to_id)
             
             weather = world.get_weather()
             weather.sun_altitude_angle = 50
