@@ -15,7 +15,7 @@ If DyDec is cloned from GitHub, to make sure the ART submodule is also cloned, r
 
 `git submodule update --init --recursive`
 
-The collusion attack is implemented in [adversarial_patch_pytorch.py](adversarial-robustness-toolbox/art/attacks/evasion/adversarial_patch/adversarial_patch_pytorch.py)
+The collusion attack is implemented in [adversarial_patch_pytorch.py](https://github.com/xHascox/adversarial-robustness-toolbox/blob/e2587643a642d03d432c814e146521447e12f557/art/attacks/evasion/adversarial_patch/adversarial_patch_pytorch.py)
 
 ### Patch Generation
 
