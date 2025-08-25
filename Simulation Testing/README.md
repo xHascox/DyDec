@@ -49,15 +49,18 @@ Define the Scenarios in a JSON file in `scenario definitions/` and put the respe
 Run the simulation in Unreal Engine (`make launch` in the carla directory, then click the play icon) 
 
 Example for running the simulation testing:
-`MACHINE_NAME=vortex python run_all_scenarios.py`
+`MACHINE_NAME=[name of machine] python run_all_scenarios.py`
 
 
 
 ### Dataset Collection
 
-To collect a new dataset, modify `scenario definitions/dataset_scenarios.json` to contain the desired scenarios and run `collect_dataset.py`. Change the DATASET_PATH variable if necessary.
+To collect a new dataset, modify `scenario definitions/dataset_scenarios.json` to contain the desired scenarios.
+Also modify the `texture_to_id` mapping in `collect_dataset.py`, such that the "benign" texture is correct for the machine that is used. Run `MACHINE_NAME=[name of machine] python collect_dataset.py`. Change the DATASET_PATH variable if necessary.
 
 To filter the collected dataset for 2 pedestrians, use `filter_dataset.py` and change the DATASET_PATH variable if necessary.
 
 
+## Results and Analysis
 
+In `Results and Analysis/`, we provide the aggregated results from our experiments including the significance analysis.
