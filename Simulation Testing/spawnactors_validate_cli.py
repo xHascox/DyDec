@@ -2,7 +2,6 @@ import carla
 import argparse
 import time
 import random
-import spawn_pedestrians
 import create_scenario
 import json
 from tqdm.auto import trange

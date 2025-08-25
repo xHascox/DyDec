@@ -58,6 +58,7 @@ def make_plots(scenarios_file = "2025-06-07 13:47:43.csv"):
     }
 
     scenarios = pd.read_csv(scenarios_file, header=None)
+    scenarios_filename = Path(scenarios_file).name
 
 
     # Get the image paths and labels, but keep only first occurrence of each unique label
@@ -91,7 +92,7 @@ def make_plots(scenarios_file = "2025-06-07 13:47:43.csv"):
 
     #plt.tight_layout()
     # Save the plot
-    output_path = Path(f'{OUTPUT_DIR}plots_{scenarios_file}/all_scenarios.png')
+    output_path = Path(f'{OUTPUT_DIR}plots_{scenarios_filename}/all_scenarios.png')
 
     output_path.parent.mkdir(exist_ok=True)
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
@@ -322,14 +323,14 @@ def make_plots(scenarios_file = "2025-06-07 13:47:43.csv"):
             
             # Save plot for this agent
             safe_agent_name = "".join(x for x in agent if x.isalnum() or x in (' ','-','_')).replace(' ', '_')
-            output_path = Path(f'{OUTPUT_DIR}plots_{scenarios_file}/speed_boxplots_{safe_agent_name}.png')
+            output_path = Path(f'{OUTPUT_DIR}plots_{scenarios_filename}/speed_boxplots_{safe_agent_name}.png')
             output_path.parent.mkdir(exist_ok=True)
             plt.savefig(output_path, dpi=300, bbox_inches='tight')
             plt.savefig(output_path.with_suffix('.pdf'), bbox_inches='tight')
             plt.close()
 
         # Write Cohen's d results to CSV
-        output_csv = Path(f'{OUTPUT_DIR}plots_{scenarios_file}/cohens_d_results_for_K_{K}.csv')
+        output_csv = Path(f'{OUTPUT_DIR}plots_{scenarios_filename}/cohens_d_results_for_K_{K}.csv')
         output_csv.parent.mkdir(exist_ok=True)
         with open(output_csv, 'w', newline='') as csvfile:
             fieldnames = [
@@ -377,8 +378,12 @@ def make_plots(scenarios_file = "2025-06-07 13:47:43.csv"):
                 if not scenario_rows.empty and not scenario in exclude_scenarios:
                     all_speeds.extend(scenario_rows[3].values)
         
-        x_min = min(all_speeds) - 0.1
-        x_max = max(all_speeds) + 0.1
+        if len(all_speeds) == 0:
+            x_min = -0.1
+            x_max = 10
+        else:
+            x_min = min(all_speeds) - 0.1
+            x_max = max(all_speeds) + 0.1
         
         # Create separate plots for each agent
         for agent in unique_agents:
@@ -426,7 +431,7 @@ def make_plots(scenarios_file = "2025-06-07 13:47:43.csv"):
             
             # Save plot for this agent
             safe_agent_name = "".join(x for x in agent if x.isalnum() or x in (' ','-','_')).replace(' ', '_')
-            output_path = Path(f'{OUTPUT_DIR}plots_{scenarios_file}/speed_histograms_{safe_agent_name}.png')
+            output_path = Path(f'{OUTPUT_DIR}plots_{scenarios_filename}/speed_histograms_{safe_agent_name}.png')
             output_path.parent.mkdir(exist_ok=True)
             plt.savefig(output_path, dpi=300, bbox_inches='tight')
             plt.close()
@@ -625,7 +630,7 @@ def make_plots(scenarios_file = "2025-06-07 13:47:43.csv"):
                 safe_group_name = "".join(x for x in group_name if x.isalnum() or x in (' ','-','_')).replace(' ', '_')
                 
                 # Save two versions - with and without std deviation
-                base_output_path = Path(f'{OUTPUT_DIR}plots_{scenarios_file}/{agent_name}_comparison_{safe_group_name}')
+                base_output_path = Path(f'{OUTPUT_DIR}plots_{scenarios_filename}/{agent_name}_comparison_{safe_group_name}')
                 
                 # Save version with std deviation
                 output_path = Path(f'{base_output_path}_with_std.png')
